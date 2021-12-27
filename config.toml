@@ -77,6 +77,10 @@ author = "Jeremy Tai Abbett"
 search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
+
+[permalinks]
+  posts = '/:year/:month/:title/'
+  
 # copyright
 copyright = "©Jeremy Tai Abbett"
 
