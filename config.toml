@@ -38,20 +38,20 @@ link = "plugins/search/search.js"
 
 
 ################################ menu ##################################
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+#[[menu.main]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
 
-[[menu.main]]
-name = "Category"
-url = "categories/nature/"
-weight = 3
+#[[menu.main]]
+#name = "Category"
+#url = "categories/nature/"
+#weight = 3
 
 [[menu.main]]
 name = "Contact"
