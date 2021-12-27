@@ -40,7 +40,7 @@ sections:
   match: "*.toml"
   new_doc_ext: toml
 upload_dir: uploads
-public_path: https://offthebaCK.s3.eu-central-1.amazonaws.com
+public_path: https://offtheback.s3.eu-central-1.amazonaws.com
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
