@@ -68,7 +68,7 @@ weight = 4
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "Sent from my bicycle"
 author = "Jeremy Tai Abbett"
 # search  
 search = true
