@@ -1,7 +1,7 @@
 ---
 title: "Hello Hannover"
 date: 2020-10-09T12:14:34+06:00
-image: "images/post/post-1.jpg"
+image: "images/post/20211016_hannover_kathi_katrin.jpg"
 author: "Jeremy Tai Abbett" # use capitalize
 description: "Hannover - the first race of the Steven Cyclocross Cup in 2021."
 categories: ["Cyclocross"]
