@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
-title = "Persian"
+baseURL = "https://offtheback.in"
+title = "Off The Back"
 theme = "persian"
 languageName = "En"
 languageCode = "en-us"
@@ -58,10 +58,10 @@ name = "Contact"
 url = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 5
+#[[menu.main]]
+#name = "Privacy Policy"
+#url = "privacy-policy"
+#weight = 5
 
 
 #################### default parameters ################################
