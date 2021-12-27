@@ -69,13 +69,13 @@ weight = 4
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Jeremy Tai Abbett"
 # search  
 search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "©Jeremy Tai Abbett"
 
 # Preloader
 [params.preloader]
