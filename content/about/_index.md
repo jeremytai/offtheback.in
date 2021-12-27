@@ -1,38 +1,27 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
-image: "images/author.jpg"
-description: "This is meta description."
+title: "Sent from my bicycle"
+image: "images/jeremytaiabbett.jpg"
+description: "Off The Back is Jeremy Tai Abbett."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
+Hello, I'm Jeremy. I've been riding bikes for as long as I can remember but it's only in September of 2020 that I started riding a lot more and getting into the local bike culture here in Hamburg.
 
+What brought me back to biking (I used to race mountain bikes in the 90's) was first the feeling of freedom and then the community. I enjoy the solitary stillness of a solo ride but it's the group rides that make going far fun.
+
+In group rides, you can usually find me [off the back](https://www.instagram.com/_offtheback_/)...
 <br>
 <br>
 
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
+## My Rides
+I grew up in the Midwest during the era of 26 inch mountain bikes. So, it goes without saying that I have a few of those in my collection.
 
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+* Rivendell Custom
+* Specialized Epic Allez
+* Kona Custom
+* ~~Kona Paddy Wagon~~
+* Canyon Inflite SL
+* Cannondale Evo Hi-Mod
+* Bridgestone XO-1
+* Fondry Valmont
+* Yeti Arc-X
