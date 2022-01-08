@@ -12,8 +12,9 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 ---
+[^1]: Clear sky, -4°C, Feels like -7°C, Humidity 66%, Wind 9km/h from ESE 
 
-Yes, the last race of the 2021 was cold. Very, very cold.
+Yes, the last race of the 2021 was cold[^1]. Very, very cold.
 
 I grew up in Minnesota, so theoretically, I should be okay with this weather. That beind said, I've lived in Hamburg over 15 years and the weather here is cold but not Minnesota cold. Over the years, my body has acclimated too much to the Northern German winters with their wet and somewhat mild winters.
 
@@ -23,9 +24,11 @@ It also meant that this was really not my kind of course as I typically do bette
 
 Four laps later I crossed the line in 2nd place four seconds off the winner...knowing I still need to learn a lot more about cyclocross before I can consistently place in the top 10.
 
-| #09 Hamburg - Harburger RG |
+{{< gallery folder="gallery" title="" >}}
+
+ ¬ 
+
+| #09 Stevens Cyclocross Cup | Hamburg - Harburger RG |
 | ----------- | ----------- |
 | 2nd 🥈  of 17 | [Full Results PDF](https://cxneu.florian-neubauer.de/images/2021/erg/20211226_09_hamburg_te.pdf) |
-
-
-{{< gallery folder="gallery" title="" >}}
+| Distance **13.15km** | Moving Time **38:42** |
