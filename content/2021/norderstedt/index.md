@@ -1,7 +1,7 @@
 ---
 title: "Into the Woods of Norderstedt"
 date: 2021-10-10T12:14:34+06:00
-image: "2021/norderstedt/211010_norderstedt_kathrinhinz.jpg"
+image: "2021/norderstedt/211010_norderstedt_kathrinhinz.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Norderstedt - the first race of the Stevens Cyclocross Cup in the 2021/22 season."
 categories: ["Cyclocross"]

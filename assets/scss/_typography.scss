@@ -8,6 +8,7 @@
     local(''),
     url('../fonts/playfair-display-v25-latin-regular.woff2') format('woff2'),
     url('../fonts/playfair-display-v25-latin-regular.woff') format('woff');
+    font-display: swap;
 }
 
 
