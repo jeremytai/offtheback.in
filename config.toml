@@ -76,7 +76,7 @@ author = "Jeremy Tai Abbett"
 # search  
 search = true
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mvolgjwd" # contact form works with https://formspree.io
 
 [permalinks]
   posts = '/:year/:month/:title/'
@@ -92,4 +92,4 @@ preloader = "" # use jpg, png, svg or gif format.
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 5

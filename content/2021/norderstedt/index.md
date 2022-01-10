@@ -8,7 +8,7 @@ categories: ["Cyclocross"]
 tags: ["cyclocross", "stevenscup"]
 draft: false
 resources: 
-- src: "gallery/*.jpg"
+- src: "gallery/*.webp"
   name: gallery-:counter
   title: gallery-title-:counter
 ---
@@ -17,7 +17,7 @@ The second race of the Stevens Cyclocross Cup snake around loamy single-track in
 
 I arrived early to recon the course and was greeted by Kathi and Marla long the way. If there's one lesson I've learned in my short time racing cyclocross is that you can never know a course well enough.
 
-I had a great start (top three) but the third corner came in too hot and dropped my bike which put me back in to fifth place. I'd make my way back into third and would hold that until the end. 
+I had a great start (top three) but the third corner I came in too hot and dropped my bike which put me back in to fifth place. I'd make my way back into third and would hold that until the end. 
 
 {{< gallery folder="gallery" title="" >}}
 
