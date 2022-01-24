@@ -3,7 +3,7 @@ title: "42. Weihnachtscross"
 date: 2021-12-26T10:26:41+01:00
 image: "2021/harburg/211226_stevenscup_hamburgharburg.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
-description: "Hamburg Harburg - the last race of the Steven Cyclocross Cup in 2021."
+description: "Hamburg Harburg - the last race of the Stevens Cyclocross Cup in 2021."
 categories: ["Cyclocross"]
 tags: ["cyclocross", "stevenscup"]
 draft: false
