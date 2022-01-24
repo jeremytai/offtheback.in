@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Off The Back</title>
+    <link>https://offtheback.in/tags/</link>
+    <description>Recent content in Tags on Off The Back</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Dec 2021 10:26:41 +0100</lastBuildDate><atom:link href="https://offtheback.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cyclocross</title>
+      <link>https://offtheback.in/tags/cyclocross/</link>
+      <pubDate>Sun, 26 Dec 2021 10:26:41 +0100</pubDate>
+      
+      <guid>https://offtheback.in/tags/cyclocross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stevenscup</title>
+      <link>https://offtheback.in/tags/stevenscup/</link>
+      <pubDate>Sun, 26 Dec 2021 10:26:41 +0100</pubDate>
+      
+      <guid>https://offtheback.in/tags/stevenscup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
