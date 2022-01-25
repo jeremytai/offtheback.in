@@ -1,14 +1,14 @@
 ---
 title: "Hello Hannover"
 date: 2021-10-09T12:14:34+06:00
-image: "2021/hannover/20211016_hannover_kathi_katrin.jpg"
+image: "2021/hannover/20211016_hannover_kathi_katrin.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Hannover - the first race of the Stevens Cyclocross Cup in the 2021/22 season."
 categories: ["Cyclocross"]
 tags: ["cyclocross", "stevenscup"]
 draft: false
 resources: 
-- src: "gallery/*.jpg"
+- src: "gallery/*.webp"
   name: gallery-:counter
   title: gallery-title-:counter
 ---
@@ -20,7 +20,6 @@ This year I actually have some base kilometers from the summer which helped in g
 Stop by and say “Hi!” when you see me 👋
 
 {{< gallery folder="gallery" title="" >}}
-📸 [Michael Richter](https://www.helmuts-fahrrad-seiten.de/2021/10/10/stevens-ccc-hannover-09-10-2021/)
 
  ¬ 
 
