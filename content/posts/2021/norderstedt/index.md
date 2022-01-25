@@ -25,5 +25,5 @@ I had a great start (top three) but the third corner I came in too hot and dropp
 
 | #02 Norderstedt| RV Germania Hamburg |
 | ----------- | ----------- |
-| 3rd 🥉 of 25 | [Full Results PDF](https://cxneu.florian-neubauer.de/images/2021/erg/20211010_02_Norderstedt_te.pdf) |
+| 3rd 🥉 of 25 | [Full Results PDF](20211010_02_Norderstedt_te.pdf) |
 | Distance **12.38km** | Moving Time **38.42** |

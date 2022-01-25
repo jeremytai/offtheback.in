@@ -53,6 +53,13 @@ a:hover {
   color: $primary-color;
 }
 
+
+a[href$='.pdf'] {
+  background: transparent url(/images/icon_pdf.gif) center left no-repeat;
+  padding-left: 18px;
+}
+
+
 .slick-slide {
   outline: 0;
 }

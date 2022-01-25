@@ -10,7 +10,7 @@ languageCode = "en-us"
 # post pagination
 paginate = "5"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+disqusShortname = "off-the-back" # get your shortname form here : https://disqus.com
 
 ############################# output ##############################
 [outputs]
@@ -74,7 +74,7 @@ logo = "images/offtheback_logo.png"
 description = "Sent from my bicycle"
 author = "Jeremy Tai Abbett"
 # search  
-search = true
+search = false
 # contact form action
 contact_form_action = "https://formspree.io/f/mvolgjwd" # contact form works with https://formspree.io
 

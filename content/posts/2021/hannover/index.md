@@ -25,5 +25,5 @@ Stop by and say “Hi!” when you see me 👋
 
 | #01 Hannover| RSG Hannover |
 | ----------- | ----------- |
-| 10th of 26 | [Full Results PDF](https://cxneu.florian-neubauer.de/images/2021/erg/20211226_09_hamburg_te.pdf) |
+| 10th of 26 | [Full Results PDF](20211226_09_hamburg_te.pdf) |
 | Distance **11.13km** | Moving Time **33.29** |

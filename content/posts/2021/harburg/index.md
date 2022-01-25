@@ -30,5 +30,5 @@ Four laps later I crossed the line in 2nd place four seconds off the winner...kn
 
 | #09 Stevens Cyclocross Cup | Hamburg - Harburger RG |
 | ----------- | ----------- |
-| 2nd 🥈  of 17 | [Full Results PDF](https://cxneu.florian-neubauer.de/images/2021/erg/20211226_09_hamburg_te.pdf) |
+| 2nd 🥈  of 17 | [Full Results PDF](20211226_09_hamburg_te.pdf) |
 | Distance **13.15km** | Moving Time **38:42** |

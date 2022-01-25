@@ -26,5 +26,5 @@ And I didn’t crash 🤞
 
 | #07 Bad Oldesloe| RV Trave |
 | ----------- | ----------- |
-| 3rd 🥉 of 28 | [Full Results PDF](https://cxneu.florian-neubauer.de/images/2021/erg/20211121_07_oldesloe_te.pdf) |
+| 3rd 🥉 of 28 | [Full Results PDF](20211121_07_oldesloe_te.pdf) |
 | Distance **09.20km** | Moving Time **37.47** |

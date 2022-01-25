@@ -5,12 +5,17 @@ description: "Off The Back is Jeremy Tai Abbett."
 draft: false
 ---
 
-### Hello, I'm Jeremy.
+## Hello, I'm Jeremy.
 
-I believe bikes are a pivotal vehicle to foster new ideas and bolster confidence. In September of 2020 I started riding a lot more and getting into the local bike culture here in Hamburg, Germany.
+I believe bikes are a pivotal vehicle to foster new ideas and strengthen confidence. It's with this in mind that I created Off The Back; a place to document my passion for cycling here in Hamburg, Germany as well as wherever I travel.
 
-What brought me back into biking was first the feeling of adventure and then the community; I enjoy the solitary stillness of a solo ride but it's the group rides that make going far fun.
+It was in September of 2020, when I bought myself a used cyclocross bike, that my joy of cycling was reignited[^1] and started riding a lot more. What brought me back into biking was first the feeling of adventure and then the community; I enjoy the solitary stillness of a solo ride but it's the group rides that make going far fun.
 
 In group rides, you can usually find me [off the back](https://www.instagram.com/_offtheback_/)...
 
+---
+
+
 📸 Photo by [Marcus Kaben](https://www.instagram.com/m.kabenfoto/).
+
+[^1]: In the 90's I was active in the mountain bike scene in Minnesota and Vail Valley.

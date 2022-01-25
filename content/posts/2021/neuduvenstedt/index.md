@@ -25,5 +25,5 @@ This race season is quite a contrast to last; with having ridden a good amount o
 
 | #03 Neu Duvenstedt | SG Athletico Büdelsdorf |
 | ----------- | ----------- |
-| 3rd 🥉 of 26 | [Full Results PDF](https://cxneu.florian-neubauer.de/images/2021/erg/20211106_03_Duvenstedt_te.pdf) |
+| 3rd 🥉 of 26 | [Full Results PDF](20211106_03_Duvenstedt_te.pdf) |
 | Distance **08.52km** | Moving Time **36.50** |

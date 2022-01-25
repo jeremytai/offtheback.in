@@ -13,7 +13,7 @@ resources:
   title: gallery-title-:counter
 ---
 
-It’s been two weeks since the last race weekend, and I have to say, it was worth the wait as Gunnar Harms and the RG UNI Hamburg Club created one of the best cyclocross courses of the entire Stevens Cup Series.
+It’s been two weeks since the last race weekend, and I have to say, it was worth the wait as Gunnar Harms and the [RG UNI Hamburg Club](https://www.rg-uni-hamburg.de) created one of the best cyclocross courses of the entire Stevens Cup Series.
 
 The pièce de résistance was the Butterberg; standing at 17 meters tall the Butterberg is more of a hill than a mountain. Nonetheless, Elmshorn’s tallest point made for some punchy climbs (and a stair section) and fast descents along loamy, hard-packed single track.
 
@@ -27,5 +27,5 @@ Overall, I’m quite okay with my ride today as we go into the last half of the 
 
 | #08 Elmshorn| RG Uni Hamburg |
 | ----------- | ----------- |
-| 4th of 25 | [Full Results PDF](https://cxneu.florian-neubauer.de/images/2021/erg/20211211_08_elmshorn_te.pdf) |
+| 4th of 25 | [Full Results PDF](20211211_08_elmshorn_te.pdf) |
 | Distance **10.93km** | Moving Time **38.59** |
