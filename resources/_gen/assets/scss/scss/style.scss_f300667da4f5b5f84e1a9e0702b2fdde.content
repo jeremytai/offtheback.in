@@ -147,7 +147,9 @@ a {
 a,
 a:hover,
 a:focus {
-  text-decoration: none; }
+  text-decoration-color: #fffb00;
+  text-decoration-thickness: .125em;
+  text-underline-offset: 1.5px; }
 
 a,
 button,
