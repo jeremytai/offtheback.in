@@ -1,7 +1,28 @@
 /*  typography */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap'); */
 
+/* (Gotham-Book)              weight: normal,   style: normal */
+@font-face {
+  font-family: 'Gotham';
+  font-weight: normal;
+  font-style: normal;
+  src:
+    local(''),
+    url('../fonts/Gotham-Book.woff2') format('woff2'),
+    url('../fonts/Gotham-Book.woff') format('woff'),
+  }
+
+/* (Gotham-Bold)              weight: bold      style: normal */
+@font-face {
+  font-family: 'Gotham';
+  font-weight: bold;
+  font-style: normal;
+  src:
+    local(''),
+  url('../fonts/Gotham-Bold.woff2') format('woff2'),
+  url('../fonts/Gotham-Bold.woff') format('woff'),
+  }
 
 body {
   line-height: 1.2;
@@ -12,7 +33,7 @@ body {
 }
 
 p, .paragraph {
-  font-weight: 400;
+  font-weight: normal;
   color: $text-color;
   font-size: 16px;
   line-height: 1.7;
@@ -22,7 +43,7 @@ p, .paragraph {
 h1,h2,h3,h4,h5,h6 {
   color: $text-color-dark;
   font-family: $primary-font;
-  font-weight: 700;
+  font-weight: bold;
   line-height: 1.2;
 }
 

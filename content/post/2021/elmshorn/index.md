@@ -1,9 +1,9 @@
 ---
-title: "Climbing the Butterberg in Elmshorn"
+title: "Butterberg in Elmshorn"
 date: 2021-12-11T12:14:34+06:00
 image: "2021/elmshorn/211211_elmshorn_stevenscup_1096.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
-description: "Bad Oldesloe - climbing the Butterberg for the 7th round of the Stevens Cyclocross Cup."
+description: "Elmshorn - climbing the Butterberg for the 7th round of the Stevens Cyclocross Cup."
 categories: ["Cyclocross"]
 tags: ["cyclocross", "stevenscup"]
 draft: false

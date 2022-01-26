@@ -1,5 +1,5 @@
 ---
-title: "Sun & Sleets of Rain in Kaltenkirchen"
+title: "Sun & Rain in Kaltenkirchen"
 date: 2021-11-07T12:14:34+06:00
 image: "2021/kaltenkirchen/211107_stevenscup_kaltenkirchen_0389.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
