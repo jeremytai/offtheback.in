@@ -46,7 +46,7 @@ Latest update: January 26, 2022
 Ja, auf Deutsch ¯\_(ツ)_/¯
 
 ### Angaben gemäß § 5 TMG
-Jeremy Abbett  
+Jeremy Tai Abbett  
 Postfach 13 03 90  
 20103 Hamburg  
 Deutschland
@@ -59,7 +59,7 @@ E-Mail: hellojeremy [@] abbett.net
 
 Verantwortlich für journalistisch-redaktionelle Inhalte ist:  
 Angaben gemäß § 5 TMG: Off The Back  
-Vertreten durch: Jeremy Abbett  
+Vertreten durch: Jeremy Tai Abbett  
 
 ### Information gemäß § 36 VSBG
 Gemäß § 36 VSBG (Verbraucherstreitbeilegungsgesetz – Gesetz über die alternative Streitbeilegung in Verbrauchersachen) erklärt der Betreiber dieser Website:  
