@@ -11,7 +11,7 @@ I believe bikes are a pivotal vehicle to foster new ideas and strengthen confide
 
 It was in September of 2020, when I bought myself a used cyclocross bike, that my joy of cycling was reignited[^1] and started riding a lot more. What brought me back into biking was first the feeling of adventure and then the community; I enjoy the solitary stillness of a solo ride but enjoy the camaraderie that group rides provide especially when going far.
 
-I ride and race with the [Kandie Gang](https://www.kandiegang.com/) 🍬 and am a member of the [FC St. Pauli Radsport](https://fcstpauli-radsport.de) 🏴‍☠️. In group rides, you can usually find me taking photos *[off the back](https://www.instagram.com/_offtheback_/)* 🚲.
+I ride and race with the [Kandie Gang](https://www.kandiegang.com/) 🍬 and am a member of [FC St. Pauli Radsport](https://fcstpauli-radsport.de) 🏴‍☠️. In group rides, you can usually find me taking photos *[off the back](https://www.instagram.com/_offtheback_/)* 🚲.
 
 ---
 
