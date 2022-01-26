@@ -79,7 +79,7 @@ search = false
 contact_form_action = "https://formspree.io/f/mvolgjwd" # contact form works with https://formspree.io
 
 [permalinks]
-  posts = '/:year/:filename/'
+  post = '/:year/:filename/'
   
 # copyright
 copyright = "©Jeremy Tai Abbett"
@@ -87,9 +87,13 @@ copyright = "©Jeremy Tai Abbett"
 # Preloader
 [params.preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
+preloader = "images/homer.gif" # use jpg, png, svg or gif format.
 
 # cookies
 [params.cookies]
 enable = true
 expire_days = 5
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'

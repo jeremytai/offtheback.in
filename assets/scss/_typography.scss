@@ -1,21 +1,11 @@
 /*  typography */
 
-@font-face {
-  font-family: 'Playfair Display';
-  font-style: normal;
-  font-weight: 400;
-  src:
-    local(''),
-    url('../fonts/playfair-display-v25-latin-regular.woff2') format('woff2'),
-    url('../fonts/playfair-display-v25-latin-regular.woff') format('woff');
-    font-display: swap;
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
 
 body {
   line-height: 1.2;
-  font-family: $primary-font;
+  font-family: $secondary-font;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
   color: $text-color;
@@ -26,13 +16,13 @@ p, .paragraph {
   color: $text-color;
   font-size: 16px;
   line-height: 1.7;
-  font-family: $primary-font;
+  font-family: $secondary-font;
 }
 
 h1,h2,h3,h4,h5,h6 {
   color: $text-color-dark;
   font-family: $primary-font;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.2;
 }
 

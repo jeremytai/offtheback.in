@@ -6,8 +6,16 @@ description: "this is meta description"
 draft: false
 ---
 
-bottom line is it’s our aim to always take care of both of us, 
-Please read this terms and  stated below, goodies Byes
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+
 
 #### Responsibility of Contributors
 
