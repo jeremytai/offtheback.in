@@ -1,8 +1,16 @@
-<footer class="py-4">
-  <div class="container text-center">
-    <p>{{ .Site.Params.copyright | markdownify }}</p>
+<footer class="p-5">
+  <div class="row">
+    <div class="container text-left col-8">
+      <p class="small">&copy; {{ now.Format "2006"}} {{ .Site.Params.copyright | markdownify }} Jeremy Tai Abbett</p>
+    </div>
+    <div class="container text-right col-4">
+      <p class="small"><a href="/privacy-policy">Privacy Policy</a> | <a href="/privacy-policy#imprint">Imprint</a></p>
+    </div>
   </div>
 </footer>
+
+
+
 
 {{ "<!-- Search index -->" | safeHTML }}
 {{ if .Site.Params.search }}

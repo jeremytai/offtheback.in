@@ -1,42 +1,70 @@
 ---
-title: "Privacy & Policy"
+title: "Privacy Policy"
 # meta description
-description: "this is meta description"
+description: "Off The Back privacy policy"
 # save as draft
 draft: false
 ---
 
-Cookies are small text files that can be used by websites to make a user's experience more efficient.
-
-The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
-
-This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
-
-You can at any time change or withdraw your consent from the Cookie Declaration on our website.
-
-Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+This website collects some personal data from its users. 
 
 
-#### Responsibility of Contributors
+**Personal Data processed for the following purposes and using the following services:**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+**Analytics**  
+    Google Analytics  
+    Personal Data: Tracker; Usage Data
 
-#### Gathering of Personal Information
+**Content performance and features testing (A/B testing)**  
+    Google Optimize  
+    Personal Data: Tracker; Usage Data
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+**Displaying content from external platforms**  
+YouTube IFrame Player  
+Personal Data: Data communicated in order to use the Service; Data communicated while using the service; device information; Usage Data; User ID; username
 
-#### Protection of  Personal- Information
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+**Information on opting out of interest-based advertising**  
+In addition to any opt-out feature provided by any of the services listed in this document, Users may follow the instructions provided by [YourOnlineChoices](http://www.youronlinechoices.com/) (EU), the [Network Advertising Initiative](https://thenai.org/about-online-advertising/) (US) and the [Digital Advertising Alliance](https://www.aboutads.info/consumers/) (US), [DAAC](http://youradchoices.ca/understanding-online-advertising) (Canada), [DDAI](http://www.ddai.info/optout) (Japan) or other similar initiatives. Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of these resources in addition to the information provided in this document.  
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+The Digital Advertising Alliance offers an application called [AppChoices](https://youradchoices.com/appchoices) that helps Users to control interest-based advertising on mobile apps.
 
-#### Privacy Policy Changes
+Users may also opt-out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+
+[Show the complete Privacy Policy](https://www.iubenda.com/privacy-policy/80476913/legal)
+
+Latest update: January 26, 2022
+
+
+---
+<a id="Imprint"></a>
+
+# Imprint
+Ja, auf Deutsch ¯\_(ツ)_/¯
+
+### Angaben gemäß § 5 TMG
+Jeremy Abbett  
+Postfach 13 03 90  
+20103 Hamburg  
+Deutschland
+
+### Kontakt   
+Telefon: +1 646  867 2268 
+E-Mail: hellojeremy [@] abbett.net
+
+### Hinweise zur Website
+
+Verantwortlich für journalistisch-redaktionelle Inhalte ist:  
+Angaben gemäß § 5 TMG: Off The Back  
+Vertreten durch: Jeremy Abbett  
+
+### Information gemäß § 36 VSBG
+Gemäß § 36 VSBG (Verbraucherstreitbeilegungsgesetz – Gesetz über die alternative Streitbeilegung in Verbrauchersachen) erklärt der Betreiber dieser Website:  
+Wir sind bereit, an Streitbeilegungsverfahren bei der folgenden Verbraucherschlichtungsstelle teilzunehmen:  
+Behörde für Gesundheit und Verbraucherschutz Amt für Verbraucherschutz Billstr. 80, 20539 Hamburg  
+
+### Hinweis
+Die Plattform der EU zur außergerichtlichen Streitbeilegung finden Sie online unter: https://ec.europa.eu/consumers/odr/

@@ -82,7 +82,7 @@ contact_form_action = "https://formspree.io/f/mvolgjwd" # contact form works wit
   post = '/:year/:filename/'
   
 # copyright
-copyright = "©Jeremy Tai Abbett"
+copyright = "Jeremy Tai Abbett"
 
 # Preloader
 [params.preloader]
