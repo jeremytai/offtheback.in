@@ -87,7 +87,7 @@ copyright = "Jeremy Tai Abbett"
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/street_fighter_fireball.gif" # use jpg, png, svg or gif format.
+preloader = "images/cat_loading.gif" # use jpg, png, svg or gif format.
 
 # cookies
 [params.cookies]
