@@ -39,14 +39,4 @@ AUTHOR WEBSITE: https://themefisher.com
     {{ "<!--Google Tag Manager-->" | safeHTML }}
     {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
 
-    {{ "<!--Google Analytics-->" | safeHTML }}
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4TP0ZE74VS"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-    gtag('config', 'G-4TP0ZE74VS');
-</script>
-
   </head>
