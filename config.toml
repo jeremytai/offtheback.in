@@ -87,7 +87,7 @@ copyright = "Jeremy Tai Abbett"
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/cat_loading.gif" # use jpg, png, svg or gif format.
+preloader = "images/cat_chase.gif" # use jpg, png, svg or gif format.
 
 # cookies
 [params.cookies]
