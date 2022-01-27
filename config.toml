@@ -80,6 +80,7 @@ contact_form_action = "https://formspree.io/f/mvolgjwd" # contact form works wit
 # google tag manager
 gtm_id = " 	GTM-WVMNNHG"
 gtm_ga = true
+gtm_datalayer = "basic"
 
 [permalinks]
   post = '/:year/:filename/'
