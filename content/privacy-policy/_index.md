@@ -47,13 +47,15 @@ Ja, auf Deutsch ¯\_(ツ)_/¯
 
 ### Angaben gemäß § 5 TMG
 Jeremy Tai Abbett  
+
+Telefon: +1 646  867 2268  
+E-Mail: hellojeremy [@] abbett.net  
+UST-IDNR.: DE236996625  
+
 Postfach 13 03 90  
 20103 Hamburg  
 Deutschland
 
-### Kontakt   
-Telefon: +1 646  867 2268 
-E-Mail: hellojeremy [@] abbett.net
 
 ### Hinweise zur Website
 
