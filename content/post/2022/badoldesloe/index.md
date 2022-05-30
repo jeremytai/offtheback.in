@@ -20,6 +20,6 @@ Today was the 3rd race in the [Specialized-Cup](https://www.facebook.com/special
 
 Bad Oldesloe was the same location where there was one of the more demanding cyclocross races from last year with punchy climbs and some extremely fast downhills leading into fast turns. Thank goodness it remaind dry as going down in a road race means bike damage and road rash or something much worse.
 
-I ended up getting 1st place 🥇 in my age group which I'm quite okay. That said, there's still some fitness to be gained before cross season starts...
+I ended up getting 1st place 🥇 in my age group. That said, there's still some fitness to be gained before cross season starts...
 
 {{< gallery folder="gallery" title="" >}}
