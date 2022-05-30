@@ -18,7 +18,7 @@ resources:
 
 Today was the 3rd race in the [Specialized-Cup](https://www.facebook.com/specializedcupsh/) Series and my first criterium in Germany. I signed-up thinking I'd like to see how my fitness is leading into the summer months and also to see what crit racing was like in Hamburg.
 
-Bad Oldesloe was the same location where there was one of the more demanding cyclocross races from last year with punchy climbs and some extremely fast downhills leading into fast turns. Thank goodness it remaind dry as going down in a road race means bike damage and road rash or something much worse.
+Bad Oldesloe was the same location where there was one of the more demanding [cyclocross races](/2021/bad_oldesloe/) from last year. With punchy climbs and some extremely fast downhills leading into fast turns, the criterium didn't disappoint. Thank goodness it remained dry as crashing in a road race means bike damage, road rash or something much worse.
 
 I ended up getting 1st place 🥇 in my age group. That said, there's still some fitness to be gained before cross season starts...
 
