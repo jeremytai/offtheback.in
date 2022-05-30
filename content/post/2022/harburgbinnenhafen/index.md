@@ -18,4 +18,6 @@ After hearing about a local criterium in Hamburg, I took the train to meet up wi
 
 We ended up watching the race together but I could tell, she would have rather been mixing it up with the others then watching from the sidelines.
 
+Read more about it [here](https://www.besser-im-blick.de/sport/10863-kopfsteinpflaster-und-regen-harburger-radrennen-im-binnenhafen-neue-hoelle-des-nordens) (auf Deutsch).
+
 {{< gallery folder="gallery" title="" >}}
