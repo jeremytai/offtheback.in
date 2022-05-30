@@ -14,9 +14,9 @@ resources:
   title: gallery-title-:counter
 ---
 
-After hearing about a local criterium in Hamburg, I took the train to meet up with Paul and some other to support [Lea Lützen](https://www.instagram.com/leas_tri_journey/), one of our Kandie Gang/ St. Pauli teammates. When we arrived I met Lea who wasn't on the start line. She said the organizers didn't get her registration although the money when through and she was announced as racing over the loudspeaker 🤷. 
+After hearing about a local crit in Hamburg, I took the train to meet up with Paul and some other to support [Lea Lützen](https://www.instagram.com/leas_tri_journey/), one of our Kandie Gang/ St. Pauli teammates. When we arrived, I met Lea who wasn't on the start line. She said the organizers didn't get her registration although the money went through and she was announced as racing over the loudspeaker 🤷. 
 
-We ended up watching the race together but I could tell, she would have rather been mixing it up with the others then watching from the sidelines.
+We ended up watching the race together, but I could tell she would have rather been mixing it up with the others then watching from the sidelines.
 
 Read more about it [here](https://www.besser-im-blick.de/sport/10863-kopfsteinpflaster-und-regen-harburger-radrennen-im-binnenhafen-neue-hoelle-des-nordens) (auf Deutsch).
 
