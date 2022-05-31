@@ -69,7 +69,7 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/offtheback_logo.png"
+logo = "images/offtheback_pensrose.png"
 # Meta data
 description = "Sent from my bicycle"
 author = "Jeremy Tai Abbett"
