@@ -78,7 +78,7 @@ search = false
 # contact form action
 contact_form_action = "https://formspree.io/f/mvolgjwd" # contact form works with https://formspree.io
 # google tag manager
-gtm_id = "G-4TP0ZE74VS"
+gtm_id = "GTM-WVMNNHG"
 gtm_ga = true
 gtm_datalayer = "basic"
 
