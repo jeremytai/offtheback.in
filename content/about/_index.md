@@ -14,8 +14,6 @@ It was in September of 2020, when I bought myself a used cyclocross bike, that m
 I ride and race with the [Kandie Gang](https://www.kandiegang.com/) 🍬 and am a member of [FC St. Pauli Radsport](https://fcstpauli-radsport.de) 🏴‍☠️. In group rides, you can usually find me taking photos *[off the back](https://www.instagram.com/_offtheback_/)* 🚲.
 
 ---
-
-
 📸 Photo by [Marcus Kaben](https://www.instagram.com/m.kabenfoto/).
 
 [^1]: In the 90's I was active in the mountain bike scene in Minnesota and Vail Valley.
