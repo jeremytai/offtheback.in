@@ -32,7 +32,8 @@ Which brings us to Friday and sitting in the back of Cindy's cherry red VW Bulle
 Thankfully, Christina hooked me up with the bike nutrition and the Gravity Bike Festival had enough food for the whole weekend. Upon arrival, we registered and I went to check out the bungalow I was sharing with Philip while Cindy and Christina went to the campsite to set-up their lodging.
 
 ## Race Day
-{{< figure src="/2022/schlaubetal/220607_orbit360_gravitybikefestival2022-161.webp" caption="Plenty of free seats if you have breakfast before 8am.">}}
+
+{{< figure src="/2022/schlaubetal/gallery/220607_orbit360_gravitybikefestival2022-16.webp" caption="Plenty of free seats if you have breakfast before 8am.">}}
 
 I typically wake-up around 5:30 - 6:00am and Saturday was no different. That said, with a 9:00am start for the 173km gravel race on the horizon I made sure to eat a solid breakfast, get my bike in order as well as my mind and body (luck favors the prepared).
 
