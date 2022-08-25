@@ -23,7 +23,7 @@ Overall, I’m quite okay with my ride today as we go into the last half of the 
 
 {{< gallery folder="gallery" title="" >}}
 
- ¬ 
+ ¬
 
 | #08 Elmshorn| RG Uni Hamburg |
 | ----------- | ----------- |
