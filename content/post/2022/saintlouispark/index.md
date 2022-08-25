@@ -18,14 +18,13 @@ Here being Minnesota where I've been for the past six weeks or so for the summer
 
 An 18:00 start with temperatures at 26°C (80°F) and humidity of 46% 🥵 was in complete contrast to what I'm used to [cyclocross racing](http://offtheback.in/tags/cyclocross/) in Europe. Thank goodness the course was extremely forgiving as it snaked along 1.8km (1.11miles) of the grass-covered rolling hill of Aquila Park. There were no necessary dismounts (sand or barriers) which made for a fast and furious, blood-pumping forty-five minute race in the Intermediate/Masters/Women category I entered.
 
-It's not the result I was hoping for...but the inviting, community vibe more than made up for placing 18th. This being my third race in Minnesota this summer (the first being a criterium and the second being the bandit cross) it's enlightening to experience the different layers of the Minnesota cycling culture.
+It's not the result I was hoping for...but the inviting, community vibe more than made up for placing 18th. This being my third race in Minnesota this summer (the first being a criterium and the second being the [bandit cross](https://www.instagram.com/p/ChXKi55uxt2/)) it's enlightening to experience the different layers of the Minnesota cycling culture.
 
 Needless to say, Minnesota cycling is alive and well.
 
 [^1]: Bike Jerks organized a [bandit cross race](https://bikejerks.com/pages/bandit-cross) a little over a week ago unofficially [kicking off](https://www.instagram.com/p/ChXKi55uxt2/) the cx season here in Minnesota.
 
 {{< figure src="/2022/saintlouispark/220823_aquila_cx-4.webp" caption="[Kadence Novak](https://www.instagram.com/dekadence/) of [Fulton Cycling](https://www.fultonbeer.com/about/fulton-racing) in-between the tape with #smilesformiles." >}}
-
 
 {{< gallery folder="gallery" title="" >}}
 
