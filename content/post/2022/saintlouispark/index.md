@@ -34,3 +34,5 @@ Needless to say, Minnesota cycling is alive and well.
 | ----------- | ----------- |
 | 18th of 64 | [Full Results](https://endurancepromotions.com/ResultDetails.aspx?id=1548) |
 | Distance **18.24km** | Moving Time **52.06** |
+
+PS More photos via [Cam Evjen](https://www.instagram.com/cam.evjen/) can be found on his [flickr account](https://www.flickr.com/photos/camevjen/albums/72177720301539756).
