@@ -15,7 +15,7 @@ resources:
 
 TL;DR Mallorca is a biker's paradise 🍊.
 
-{{< figure src="/2022/mallorca/220402_mallorca_day_one-1-2.webp" >}}
+{{< figure src="/2022/mallorca/220402_mallorca_day_one-4.webp" >}}
 
 ## Day 01
 I woke up promptly at 3:45am, fifteen minutes before the alarm on my iPhone was set to wake-me up, knowing that Hamburg’s airport might be a little slower getting people through security than usual due to the ongoing COVID situation effecting us all. After getting a car share, driving to the airport and checking-in I was well into my very first trip to Mallorca…
