@@ -6,7 +6,7 @@ image: "2022/burnsville/gallery/220825_buickhill_mtnbike_race-45.webp"
 draft: true
 description: "Freewheel Buck Hill Thursday Night Race Series - No. 11."
 categories: ["mtn bike"]
-tags: ["moutain bike", "freewheel", "buck hill"]
+tags: ["mountain bike", "freewheel", "buck hill"]
 draft: false
 resources: 
 - src: "gallery/*.webp"
