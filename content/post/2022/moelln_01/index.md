@@ -22,7 +22,7 @@ Needless to say, we’re looking forward to the next eight races with next weeke
 
 {{< gallery folder="gallery" title="" >}}
 
-*Non-commerical usage of the photos in the gallery above are provided pending there is my copyright and a link to [Off the Back](https://www.offtheback.in). [Contact](https://www.offtheback.in/contact) me to remove the watermark in the middle.
+*Non-commerical use of the photos in the gallery above are provided pending there is my copyright and a link to [Off the Back](https://www.offtheback.in). For commercial use [contact](https://www.offtheback.in/contact) me.*
 
 | #01 Mölln | Pirate Bikes |
 | ----------- | ----------- |
