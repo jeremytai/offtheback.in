@@ -101,3 +101,6 @@ expire_days = 5
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+[imaging.exif]
+    includeFields = ".*"

@@ -3,9 +3,9 @@
 {{ end }}
   <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
   {{- range (.Page.Resources.Match (printf "%s*" (.Get "folder"))) }}
-  {{ $thumbnail := .Resize "320x" }}
+  {{ $thumbnail := .Resize "320x q40" }}
     <figure itemscope itemtype="http://schema.org/ImageObject" class="image gallery-item">
-    <a href="{{ .Permalink }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
+    <a href="{{ .Permalink }}" data-title="{{ with .Exif }}{{ .Tags.ImageDescription }}{{ end }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
       
       <img
         src="{{ $thumbnail.Permalink }}" itemprop="thumbnail" alt="galleryImage" class="galleryImage"

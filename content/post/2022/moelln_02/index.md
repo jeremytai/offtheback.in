@@ -1,5 +1,5 @@
 ---
-title: "Mölln - Stevens Cyclocross Cup #2"
+title: "Mölln - Day Two"
 date: 2022-09-25T21:54:14+02:00
 image: "2022/moelln_02/gallery/220925_stevenscup_moelln_day2-46.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
@@ -18,13 +18,17 @@ Like last year, the second half of the race weekend in Mölln is run on the same
 
 I felt better than yesterday and was able to make up two places finishing in 6th place. The earlier race times (my age group is the first race of the day) suits me well as I wake up by 6:00am everyday anyway.
 
-Sidenote: I started my Wahoo one lap into the race...and not sure I really need it during racing. Therefore, I'm going back to using my Garmin watch on race days.
+---
+*Non-commerical use of the photos in the gallery below are provided pending my copyright remains intact and there is a link to [Off the Back](https://www.offtheback.in).
 
-{{< gallery folder="gallery" title="" >}}
+For commercial use [contact](https://www.offtheback.in/contact) me.*
 
-*Non-commerical use of the photos in the gallery above are provided pending there is my copyright and a link to [Off the Back](https://www.offtheback.in). For commercial use [contact](https://www.offtheback.in/contact) me.*
+{{< gallery folder="gallery" title="Mölln - Stevens Cyclocross Cup #2" >}}
 
-| #02 Mölln | Pirate Bikes |
+---
+2 Mölln | Pirate Bikes |
 | ----------- | ----------- |
 | 6th of 24 | [Full Results PDF](20220925_02_moelln_te.pdf) |
 | Distance **10.20km** | Moving Time **32.22** |
+
+Sidenote: I started my Wahoo one lap into the race...and not sure I really need it during racing. Therefore, I'm going back to using my Garmin watch on race days.
