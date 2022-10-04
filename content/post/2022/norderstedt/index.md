@@ -29,6 +29,6 @@ For commercial use [contact](https://www.offtheback.in/contact) me.*
 3 Norderstedt | RV Germania Hamburg |
 | ----------- | ----------- |
 | 5th of 27 | [Full Results PDF](2022102_03_norderstedt_te) |
-| Distance **10.20km** | Moving Time **32.22** |
+| Distance **8.90km** | Moving Time **ca. 34.22** |
 
 Sidenote: I used my Garmin watch but forgot to start it for the race 🤷. Hopefull, I'll get it right by the end of the season.
