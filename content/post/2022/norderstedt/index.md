@@ -12,9 +12,9 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 ---
-The winding, root infested single-track in the Rantzauer Forst of Norderstedt is my favorite course of the whole Stevens Cyclocross Cup race series. It evokes memories of riding 26 inch wheeled mountain bikes in Minnesota from my formative days. Add a good amount of sloppy mud and it becomes a recipe for goodness.
+The winding, root infested single-track in the Rantzauer Forst of Norderstedt is my favorite course of the whole Stevens Cyclocross Cup race series. It evokes memories of riding 26 inch wheeled mountain bikes 🚲 in Minnesota from my formative days. Add a good amount of sloppy mud and it becomes a recipe for goodness.
 
-Today's race was just that; a rainy half-hour, heart pumping slog of four laps where one had to be as to match physical output with a health amount of technical savvy. I registered late so was relegate to the rear of the start, which in hindsight, was a chance to work on my passing skills.
+Today's race was just that; a rainy half-hour, heart pumping slog of four laps where one had to be as to match physical output with a health amount of technical savvy. I registered late so was relegated to the rear of the start, which in hindsight, was a chance to work on my passing skills.
 
 I ended up in fifth place which I'm quite happy.
 
@@ -31,4 +31,4 @@ For commercial use [contact](https://www.offtheback.in/contact) me.*
 | 5th of 27 | [Full Results PDF](2022102_03_norderstedt_te) |
 | Distance **10.20km** | Moving Time **32.22** |
 
-Sidenote: I started my Wahoo one lap into the race...and not sure I really need it during racing. Therefore, I'm going back to using my Garmin watch on race days.
+Sidenote: I used my Garmin watch but forgot to start it for the race 🤷. Hopefull, I'll get it right by the end of the season.
