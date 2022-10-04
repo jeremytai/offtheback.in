@@ -21,9 +21,9 @@ Today, Kandie Gang was in full force having four women riding licensed, three in
 Needless to say, we’re looking forward to the next eight races with next weekend being in Norderstedt and Hannover. 🙌
 
 ---
-*Non-commerical use of the photos in the gallery below are provided pending my copyright remains intact and there is a link to [Off the Back](https://www.offtheback.in).
+*Non-commerical use of the photos in the gallery below are provided pending my copyright remains intact and there is a link to [Off the Back](https://www.offtheback.in).*
 
-For commercial use [contact](https://www.offtheback.in/contact) me.*
+*For commercial use [contact](https://www.offtheback.in/contact) me.*
 
 {{< gallery folder="gallery" title="Mölln - Stevens Cyclocross Cup #1" >}}
 
@@ -33,3 +33,7 @@ For commercial use [contact](https://www.offtheback.in/contact) me.*
 | ----------- | ----------- |
 | 8th of 24 | [Full Results PDF](20220924_01_moelln_te.pdf) |
 | Distance **10.36km** | Moving Time **34.36** |
+
+---
+
+{{< youtube A_Bq_Ofyl4A >}}
