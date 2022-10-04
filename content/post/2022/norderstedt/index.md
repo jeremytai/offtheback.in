@@ -14,7 +14,7 @@ resources:
 ---
 The winding, root infested single-track in the Rantzauer Forst of Norderstedt is my favorite course of the whole Stevens Cyclocross Cup race series. It evokes memories of riding 26 inch wheeled mountain bikes 🚲 in Minnesota from my formative days. Add a good amount of sloppy mud and it becomes a recipe for goodness.
 
-Today's race was just that; a rainy half-hour, heart pumping slog of four laps where one had to be as to match physical output with a health amount of technical savvy. I registered late so was relegated to the rear of the start, which in hindsight, was a chance to work on my passing skills.
+Today's race was just that; a rainy half-hour, heart pumping slog of four laps where one had to match physical output with a healthy dose of technical savvy. I registered late so was relegated to the rear of the start, which in hindsight, was a chance to work on my passing skills.
 
 I ended up in fifth place which I'm quite happy.
 
