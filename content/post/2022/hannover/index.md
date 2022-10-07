@@ -18,11 +18,6 @@ As my race started first, the ground was still sticky with pasty mud and wet gra
 
 Yesterday's race and the early drive took its toll and I missed bridging to the rider in front of me with the consequence being another fifth place like Sunday's race.
 
----
-*Non-commerical use of the photos in the gallery below are provided pending my copyright remains intact and there is a link to [Off the Back](https://www.offtheback.in).*
-
-*For commercial use [contact](https://www.offtheback.in/contact) me.*
-
 {{< gallery folder="gallery" title="Hannover - Stevens Cyclocross Cup #4" >}}
 
 ---

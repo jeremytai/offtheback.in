@@ -41,5 +41,4 @@ just love. just tolerance. just peace.
 
 [Join us](https://www.strava.com/clubs/kandiegang) on our next ride.
 
----
 {{< gallery folder="gallery" title="Kandie Gang One Year Anniversary Social Ride" >}}

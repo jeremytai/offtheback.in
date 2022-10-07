@@ -18,11 +18,6 @@ Like last year, the second half of the race weekend in Mölln is run on the same
 
 I felt better than yesterday and was able to make up two places finishing in 6th place. The earlier race times (my age group is the first race of the day) suits me well as I wake up by 6:00am everyday anyway.
 
----
-*Non-commerical use of the photos in the gallery below are provided pending my copyright remains intact and there is a link to [Off the Back](https://www.offtheback.in).
-
-For commercial use [contact](https://www.offtheback.in/contact) me.*
-
 {{< gallery folder="gallery" title="Mölln - Stevens Cyclocross Cup #2" >}}
 
 ---

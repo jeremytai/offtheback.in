@@ -18,11 +18,6 @@ Today's race was just that; a rainy half-hour, heart pumping slog of four laps w
 
 I ended up in fifth place which I'm quite happy.
 
----
-*Non-commerical use of the photos in the gallery below are provided pending my copyright remains intact and there is a link to [Off the Back](https://www.offtheback.in).*
-
-*For commercial use [contact](https://www.offtheback.in/contact) me.*
-
 {{< gallery folder="gallery" title="Nordersted - Stevens Cyclocross Cup #3" >}}
 
 ---
@@ -32,3 +27,7 @@ I ended up in fifth place which I'm quite happy.
 | Distance **8.90km** | Moving Time **ca. 34.22** |
 
 Sidenote: I used my Garmin watch but forgot to start it for the race 🤷. Hopefull, I'll get it right by the end of the season.
+
+---
+
+{{< youtube mleA1usYqI4 >}}

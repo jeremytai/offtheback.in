@@ -21,7 +21,7 @@ As I don't have a mountain bike in Minnesota, I had the good fortune of borrowin
 
 Thanks [Jason](https://www.strava.com/athletes/4501137) and Jenny for lending me your bike!
 
-{{< gallery folder="gallery" title="" >}}
+{{< gallery folder="gallery" title="Tuesday Night Cyclocross" >}}
 
  ¬
 
