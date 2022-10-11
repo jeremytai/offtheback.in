@@ -88,7 +88,7 @@ gtm_ga = true
 gtm_datalayer = "basic"
 
 [permalinks]
-  post = '/:filename/'
+  post = '/:year/:filename/'
   
 # copyright
 copyright = "Jeremy Tai Abbett"
