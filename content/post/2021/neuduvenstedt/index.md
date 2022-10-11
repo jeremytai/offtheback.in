@@ -1,7 +1,7 @@
 ---
 title: "Kolonistenhof of Neu Duvenstedt"
 date: 2021-11-06T12:14:34+06:00
-image: "neuduvenstedt/20211106_patrickahrens_neuduvenstedt.jpg"
+image: "2021/neuduvenstedt/20211106_patrickahrens_neuduvenstedt.jpg"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Neu Duvenstedt - the third race of the Stevens Cyclocross Cup in the 2021/22 season."
 categories: ["Cyclocross"]

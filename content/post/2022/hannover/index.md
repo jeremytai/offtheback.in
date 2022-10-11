@@ -1,7 +1,7 @@
 ---
 title: "Hannover"
 date: 2022-10-03T09:54:34+02:00
-image: "hannover/gallery/221003_stevenscup_hannover-25.webp"
+image: "2022/hannover/gallery/221003_stevenscup_hannover-25.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "In Hanover for the 4th round of the Stevens Cyclocross Cup"
 categories: ["Cyclocross"]

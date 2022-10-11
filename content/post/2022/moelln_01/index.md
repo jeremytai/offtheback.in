@@ -1,7 +1,7 @@
 ---
 title: "Mölln - Day One"
 date: 2022-09-24T08:04:01+02:00
-image: "moelln_01/220924_stevenscup_moelln_day01-2.webp"
+image: "2022/moelln_01/220924_stevenscup_moelln_day01-2.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Mölln - King of Pirates for the 1st round of the Stevens Cyclocross Cup 2022."
 categories: ["Cyclocross"]

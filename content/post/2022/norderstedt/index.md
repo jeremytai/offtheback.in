@@ -1,7 +1,7 @@
 ---
 title: "Norderstedt"
 date: 2022-10-02T21:43:24+02:00
-image: "norderstedt/gallery/221002_stevenscup_norderstedt-33.webp"
+image: "2022/norderstedt/gallery/221002_stevenscup_norderstedt-33.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Norderstedt for the 3rd round of the Stevens Cyclocross Cup"
 categories: ["Cyclocross"]

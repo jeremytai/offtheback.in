@@ -1,7 +1,7 @@
 ---
 title: "Butterberg in Elmshorn"
 date: 2021-12-11T12:14:34+06:00
-image: "elmshorn/211211_elmshorn_stevenscup_1096.webp"
+image: "2021/elmshorn/211211_elmshorn_stevenscup_1096.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Elmshorn - climbing the Butterberg for the 7th round of the Stevens Cyclocross Cup."
 categories: ["Cyclocross"]
