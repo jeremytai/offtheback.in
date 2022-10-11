@@ -47,9 +47,14 @@ link = "plugins/search/search.js"
 #weight = 1
 
 [[menu.main]]
+name = "Bikes"
+url = "tags/bikes/"
+weight = 2
+
+[[menu.main]]
 name = "About"
 url = "about"
-weight = 2
+weight = 3
 
 #[[menu.main]]
 #name = "Category"
@@ -83,7 +88,7 @@ gtm_ga = true
 gtm_datalayer = "basic"
 
 [permalinks]
-  post = '/:year/:filename/'
+  post = '/:filename/'
   
 # copyright
 copyright = "Jeremy Tai Abbett"

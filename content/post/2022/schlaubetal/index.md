@@ -63,9 +63,7 @@ The evening activity of footdown[^1] was held in an arena adjacent to the camp g
 
 Thank you Christina for the tip, Raphael for the patience and the rest of the northern Germany crew (Cindy, Malte, Philip, Elena, and Manuel) for being yourselves.
 
----
-
-## <a id="gallery"></a> Gallery
+## <a id="gallery"></a>
 {{< gallery folder="gallery" title="Orbit360 Gravity Bike Festival 2022" >}}
----
+
 [^1]: Footdown is a group bicycle game where the objective is to avoid put your foot on the ground. Participants cycle around until there is only one person who has not put his or her foot down on the floor, whether it be the full foot, or just a toe.
