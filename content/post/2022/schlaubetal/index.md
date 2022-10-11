@@ -1,5 +1,5 @@
 ---
-title: "Schlaubetal"
+title: "Gravity Bike Festival"
 date: 2022-06-06T12:04:44+02:00
 image: "2022/schlaubetal/gallery/220607_orbit360_gravitybikefestival2022-29.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
