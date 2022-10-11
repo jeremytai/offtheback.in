@@ -1,7 +1,7 @@
 ---
 title: "St. Louis Park"
 date: 2022-08-23T20:08:04-05:00
-image: "2022/saintlouispark/gallery/220823_aquila_cx-15.webp"
+image: "saintlouispark/gallery/220823_aquila_cx-15.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 draft: false
 description: "The kick-off of the Tuesday Night CX at Aquila Park in St. Louis Park, Minnesota with Endurance Promotions, Minnesota Cycling Federation, Fulton Racing, Utepils Cycling and the Kandie Gang."
@@ -26,7 +26,7 @@ Needless to say, Minnesota cycling is alive and well.
 
 {{< figure src="/2022/saintlouispark/220823_aquila_cx-4.webp" caption="[Kadence Novak](https://www.instagram.com/dekadence/) of [Fulton Cycling](https://www.fultonbeer.com/about/fulton-racing) in-between the tape with #smilesformiles." >}}
 
-{{< gallery folder="gallery" title="" >}}
+{{< gallery folder="gallery" title="Tuesday Night CX" >}}
 
  ¬
 

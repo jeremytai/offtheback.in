@@ -1,7 +1,7 @@
 ---
 title: "S-Cup / Bad Oldesloe"
 date: 2022-05-29T21:58:44+02:00
-image: "2022/badoldesloe/220529_scup_badoldesloe_rennen-28.webp"
+image: "badoldesloe/220529_scup_badoldesloe_rennen-28.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Sunday was race day in Bad Oldesloe and the 3rd race in the Specialized-Cup."
 categories: ["criterium"]

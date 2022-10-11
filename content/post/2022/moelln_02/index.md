@@ -1,7 +1,7 @@
 ---
 title: "Mölln - Day Two"
 date: 2022-09-25T21:54:14+02:00
-image: "2022/moelln_02/gallery/220925_stevenscup_moelln_day2-46.webp"
+image: "moelln_02/gallery/220925_stevenscup_moelln_day2-46.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Mölln - King of Pirates for the 2nd round of the Stevens Cyclocross Cup 2022."
 categories: ["Cyclocross"]
@@ -20,7 +20,6 @@ I felt better than yesterday and was able to make up two places finishing in 6th
 
 {{< gallery folder="gallery" title="Mölln - Stevens Cyclocross Cup #2" >}}
 
----
 | #02 Mölln | Pirate Bikes |
 | ----------- | ----------- |
 | 6th of 24 | [Full Results PDF](20220925_02_moelln_te.pdf) |

@@ -1,7 +1,7 @@
 ---
 title: "Phil's Bastion"
 date: 2022-06-17T05:57:29+02:00
-image: "2022/bastion/gallery/220617_philip_berberich_bastion-21.webp"
+image: "bastion/gallery/220617_philip_berberich_bastion-21.webp"
 description: "Philip Berberich's custom made Bastion."
 categories: ["bikes"]
 tags: ["bikes", "custom made"]

@@ -1,7 +1,7 @@
 ---
 title: "Norderstedt"
 date: 2022-10-02T21:43:24+02:00
-image: "2022/norderstedt/gallery/221002_stevenscup_norderstedt-33.webp"
+image: "norderstedt/gallery/221002_stevenscup_norderstedt-33.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Norderstedt for the 3rd round of the Stevens Cyclocross Cup"
 categories: ["Cyclocross"]
@@ -20,7 +20,6 @@ I ended up in fifth place which I'm quite happy.
 
 {{< gallery folder="gallery" title="Nordersted - Stevens Cyclocross Cup #3" >}}
 
----
 | #03 Norderstedt | RV Germania Hamburg |
 | ----------- | ----------- |
 | 5th of 27 | [Full Results PDF](2022102_03_norderstedt_te.pdf) |

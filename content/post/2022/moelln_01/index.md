@@ -1,7 +1,7 @@
 ---
 title: "Mölln - Day One"
 date: 2022-09-24T08:04:01+02:00
-image: "2022/moelln_01/220924_stevenscup_moelln_day01-2.webp"
+image: "moelln_01/220924_stevenscup_moelln_day01-2.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Mölln - King of Pirates for the 1st round of the Stevens Cyclocross Cup 2022."
 categories: ["Cyclocross"]
@@ -21,8 +21,6 @@ Today, Kandie Gang was in full force having four women riding licensed, three in
 Needless to say, we’re looking forward to the next eight races with next weekend being in Norderstedt and Hannover. 🙌
 
 {{< gallery folder="gallery" title="Mölln - Stevens Cyclocross Cup #1" >}}
-
----
 
 | #01 Mölln | Pirate Bikes |
 | ----------- | ----------- |

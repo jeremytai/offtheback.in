@@ -1,7 +1,7 @@
 ---
 title: "Sankt Pauli"
 date: 2022-06-15T12:04:44+02:00
-image: "2022/sanktpauli/gallery/220615_kandiegang_oneyear-9.webp"
+image: "sanktpauli/gallery/220615_kandiegang_oneyear-9.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Kandie Gang has it's one year anniversary."
 categories: ["socialride"]

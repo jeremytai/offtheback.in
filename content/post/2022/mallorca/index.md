@@ -1,7 +1,7 @@
 ---
 title: "Mallorca"
 date: 2022-04-12T11:18:31+02:00
-image: "2022/mallorca/220405_mallorca_day_four-1.webp"
+image: "mallorca/220405_mallorca_day_four-1.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "My first time visiting Mallorca; a biking paradise."
 categories: ["Road"]

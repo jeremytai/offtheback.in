@@ -1,7 +1,7 @@
 ---
 title: "Harburg Criterium"
 date: 2022-05-28T09:23:48+02:00
-image: "2022/harburgbinnenhafen/220528_harburgbinnenhafen_rennen-31.webp"
+image: "harburgbinnenhafen/220528_harburgbinnenhafen_rennen-31.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 draft: true
 description: "A day watching the Hamburg-Harburg Binenhafen Criterium"

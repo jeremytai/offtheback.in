@@ -1,7 +1,7 @@
 ---
 title: "CTF RG Wedel"
 date: 2022-01-23T09:41:03+01:00
-image: "2022/wedel/220123_octf_rg_wedel-13.webp"
+image: "wedel/220123_octf_rg_wedel-13.webp"
 description: "CTF RG Wedel - riding a allroad/gravel course in the suburbs of Hamburg."
 #author: "Jeremy Tai Abbett" # use capitalize
 categories: ["Allroad"]

@@ -1,7 +1,7 @@
 ---
 title: "Burnsville"
 date: 2022-08-25T06:26:51-05:00
-image: "2022/burnsville/gallery/220825_buickhill_mtnbike_race-45.webp"
+image: "burnsville/gallery/220825_buickhill_mtnbike_race-45.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Freewheel Buck Hill Thursday Night Race Series - No. 11."
 categories: ["mtn bike"]
