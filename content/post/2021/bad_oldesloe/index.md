@@ -1,7 +1,7 @@
 ---
 title: "Bumpin' Around Bad Oldesloe"
 date: 2021-11-21T12:14:34+06:00
-image: "2021/bad_oldesloe/20211121_stevenscup_badoldesloe.webp"
+image: "bad_oldesloe/20211121_stevenscup_badoldesloe.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Bad Oldesloe - the premiere of the first cyclocross race in Bad Oldesloe."
 categories: ["cyclocross"]

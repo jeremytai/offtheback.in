@@ -1,7 +1,7 @@
 ---
 title: "Sun & Rain in Kaltenkirchen"
 date: 2021-11-07T12:14:34+06:00
-image: "2021/kaltenkirchen/211107_stevenscup_kaltenkirchen_0389.webp"
+image: "kaltenkirchen/211107_stevenscup_kaltenkirchen_0389.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Kaltenkirchen - sliding around Kaltenkirchen for the 4th round of the Stevens Cyclocross Cup."
 categories: ["Cyclocross"]

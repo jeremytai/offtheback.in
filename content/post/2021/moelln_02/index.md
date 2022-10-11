@@ -1,7 +1,7 @@
 ---
 title: "King of Pirates, Day 02 - Mölln"
 date: 2021-11-14T12:14:34+06:00
-image: "2021/moelln_02/211114_stevenscup_moelln_day02_0600.webp"
+image: "moelln_02/211114_stevenscup_moelln_day02_0600.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Mölln - King of Pirates for the 6th round of the Stevens Cyclocross Cup."
 categories: ["Cyclocross"]
