@@ -20,10 +20,13 @@ Yesterday's race and the early drive took its toll and I missed bridging to the 
 
 {{< gallery folder="gallery" title="Hannover - Stevens Cyclocross Cup #4" >}}
 
----
 | #04 Norderstedt | RSG Hannover |
 | ----------- | ----------- |
 | 5th of 20 | [Full Results PDF](20221003_04_hannover_te.pdf) |
 | Distance **8.90km** | Moving Time **ca. 34.22** |
 
 Sidenote: I used my Garmin watch but started it late 🤷.
+
+---
+
+{{< youtube NE6eEDSxEfc >}}
