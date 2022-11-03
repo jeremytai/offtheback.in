@@ -5,7 +5,7 @@ image: "2022/hamburg/gallery/221031_hamburg_kandiegang_halloween-46.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
 description: "Kandie Gang Halloween Ronde 2022."
 categories: ["Gravel"]
-tags: ["all-road", "Halloween", "KandieGang"]
+tags: ["all-road", "Halloween", "Kandie Gang"]
 draft: false
 resources: 
 - src: "gallery/*.webp"
