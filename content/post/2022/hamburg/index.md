@@ -13,13 +13,13 @@ resources:
   title: gallery-title-:counter
 ---
 
-Halloween is a big deal for me as I grew up in the USA where I remember trick or treating in my formative years. So, last October 31s, I did a gravel ride organized by [Mathias](https://instagram.com/matzelfratzel) and decided to dress-up.
+Halloween is a big deal for me as I grew up in the USA where I remember trick or treating from my formative years. So, last October 31st, I did a gravel ride organized by [Mattis](https://instagram.com/matzelfratzel) and decided to dress-up.
 
 This year, I knew I wanted to something where other people could experience the joy of biking in a costume as I did last year. Luckily for me I had a co-conspirator in [Christine](https://instagram.com/christine_vds).
 
 Originally, Christine and I were thinking a gravel tour but, the day before was the Schotter Westen 100 from [Traktor.Scheisse.Spritzen](https://instagram.com/traktor.scheisse.spritzen). Needless to say, we decided on having a relatively east 40 - 50km all-road tour.
 
-We were also thinking of staring in the late morning but that changed after I had a conversation with [Wiebke](https://instagram.com/wibuhamburg). She convinced me that a afternoon start would be better as we'd be able to see the kids out trick or treating just as we were finishing up.
+We were also thinking of staring in the late morning but that changed after I had a conversation with [Wiebke](https://instagram.com/wibuhamburg). She convinced me that an afternoon start would be better as we'd be able to see the kids out trick or treating just as we were finishing up.
 
 {{< komoot id="969045217" >}}
 
