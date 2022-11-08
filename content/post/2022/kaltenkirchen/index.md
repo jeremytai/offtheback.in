@@ -24,7 +24,7 @@ One of my gifts was having Franziska and Niilo watch me race as they hadn't seen
 
 | #05 Kaltenkirchen | [RSC Kattenberg](https://www.rsc-kattenberg.de/) |
 | ----------- | ----------- |
-| 9th of 38 | [Full Results PDF](20221023_kaltenkirchen_05_te) |
+| 9th of 38 | [Full Results PDF](20221023_kaltenkirchen_05_te.pdf) |
 | Distance **10.69km** | Moving Time **ca. 34.41** |
 
 Sidenote: I used my Garmin watch but forgot my heartrate monitor making for some not quite believable efforts.
