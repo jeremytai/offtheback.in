@@ -13,7 +13,7 @@ resources:
 ---
 Inspired by the recent [Cyclocross World Championships](https://www.instagram.com/reel/CkisSosINwI/) in Namur, this year's edition of the Stevens Cyclocross Cup in Bad Oldesloe had more climbing, more [off-camber](#offcamber) and more action than all the races. That being said, it was a challenging course that gave the advantage to those with a little more on-the-bike technical ability.
 
-I had a good start and was top three going into the first off-camber section. I was able to hold onto top five until my front tire lost some air in a corner making for a less than confident ride for the remaining laps.
+I had a good start and was top three going into the first off-camber section. Somewhere along the first lap my front tire lost some air in a corner making for a less than confident ride for the remaining laps.
 
 Among the thirty others in my age class, my goal was to finish top ten which I was able to do with plenty of time before the 11th place finisher.
 
