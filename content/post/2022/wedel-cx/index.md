@@ -20,14 +20,14 @@ During my pre-ride of the new course, I remembered riding some of the same trail
 
 Bravo Martin 👏
 
-## H2 Onto the Race
+## Onto the Race
 Of the 78 men that registered only 30 showed up 🤷. After getting a good start I was able to hold onto third place before being swallowed up by three others, and ultimately, finishing in seventh.
 
 Thankful, and grateful, for all the support along the way 🥳!
 
 {{< gallery folder="gallery" title="Wedel - Stevens Cyclocross Cup #8" >}}
 
-| #08 Bad Oldesloe | [RG Wedel e.V.](https://www.rg-wedel.de/1-ulli-langbehn-radcross-was-fuer-ein-tag/) |
+| #08 Wedel | [RG Wedel e.V.](https://www.rg-wedel.de/1-ulli-langbehn-radcross-was-fuer-ein-tag/) |
 | ----------- | ----------- |
 | 7th of 30 | [Full Results PDF](20221204_wedel_08_te.pdf) |
 | Distance **13.25km** | Moving Time **ca. 39.51** |
