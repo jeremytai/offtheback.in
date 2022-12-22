@@ -16,7 +16,7 @@ The story of my 1996 Rivendell All Rounder starts six years earlier...
 
 It's the summer of 1990, I was living in Edina, Minnesota working at a bike shop in Minneapolis called Kenwood Cycles that carried Bianchi but also had access to Bridgestone. Bridgestone was making no nonsense mountain bikes such as the [MB-1](https://sheldonbrown.com/bridgestone/1989/pages/bridgestone-1989-03.htm); a steel Tange Prestige lugged frame with Shimano Deore XT (Shimano M730) components.
 
-In 1990 when Bridgestone, under the direction of [Grant Petersen](https://www.bikemag.com/pavedmag/5-reasons-why-hes-grant-petersen-and-youre-not/) (and eventual Rivendell founder), brought out the Bridgestone MB-0 or MB-Zip. Limited to just 1000 builds, the [Bridgestone MB-0](https://sheldonbrown.com/bridgestone/1990/pages/bridgestone-1990-03.htm) was a lighter, more exclusive version of the MB-1. Hand-built using TIG-welded Ritchey Logic Prestige tubing with mix of Suntour XC-Pro and Mavic Paris Dakar, MB-0 eschewed the trends of the time such as a Shimano Bio-pace chainring and bar-ends.
+In 1990, under the direction of [Grant Petersen](https://www.bikemag.com/pavedmag/5-reasons-why-hes-grant-petersen-and-youre-not/) (and eventual Rivendell founder), Bridgestone brought out the Bridgestone MB-0 or MB-Zip. Limited to just 1000 builds, the [Bridgestone MB-0](https://sheldonbrown.com/bridgestone/1990/pages/bridgestone-1990-03.htm) was a lighter, more exclusive version of the MB-1. Hand-built using TIG-welded Ritchey Logic Prestige tubing with mix of Suntour XC-Pro and Mavic Paris Dakar, MB-0 eschewed the trends of the time such as a Shimano Bio-pace chainring and bar-ends.
 
 Needless to say, I was fortunate enough to get one....but that's a story for another time.
 
