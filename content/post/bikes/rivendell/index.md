@@ -29,3 +29,5 @@ The frame was custom built with a longer top-tube (to accomodate my long torso) 
 This past summer I took it out for some proper [mountain biking](https://www.instagram.com/reel/Cf79RLJu5rr/?hl=en) while in Vail Valley⛰️ and it's still as fun as when I first got it back in 1996.
 
 {{< gallery folder="gallery" title="Custom Built Rivendell All-Rounder" >}}
+
+Bonus: If you've made it this far then check out the [back catalog 📄](http://notfine.com/rivreader/) of all the Rivendell Readers as well as the Bridgestone Owners Bunch.
