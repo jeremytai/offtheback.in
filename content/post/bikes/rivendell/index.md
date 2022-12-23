@@ -14,19 +14,21 @@ resources:
 
 The story of my 1996 Rivendell All Rounder starts six years earlier...
 
-It's the summer of 1990, I was living in Edina, Minnesota working at a bike shop in Minneapolis called Kenwood Cycles that carried Bianchi but also had access to Bridgestone. Bridgestone was making no nonsense mountain bikes such as the [MB-1](https://sheldonbrown.com/bridgestone/1989/pages/bridgestone-1989-03.htm); a steel Tange Prestige lugged frame with Shimano Deore XT (Shimano M730) components.
+It's the summer of 1990, I was living in Edina, Minnesota working at a bike shop in Minneapolis called Kenwood Cyclery that carried Bianchi but also had access to Bridgestone. Bridgestone was making no nonsense mountain bikes such as the [MB-1](https://sheldonbrown.com/bridgestone/1989/pages/bridgestone-1989-03.htm); a steel Tange Prestige lugged frame with Shimano Deore XT (Shimano M730) components.
 
-In 1990, under the direction of [Grant Petersen](https://www.bikemag.com/pavedmag/5-reasons-why-hes-grant-petersen-and-youre-not/) , Bridgestone brought out the Bridgestone MB-0 or MB-Zip. Limited to just 1000 builds, the [Bridgestone MB-0](https://sheldonbrown.com/bridgestone/1990/pages/bridgestone-1990-03.htm) was a lighter, more exclusive version of the MB-1. Hand-built using TIG-welded Ritchey Logic Prestige tubing with mix of Suntour XC-Pro and Mavic Paris Dakar, MB-0 eschewed the trends of the time such as a Shimano Bio-pace chainring and bar-ends.
+Under the direction of [Grant Petersen](https://www.bikemag.com/pavedmag/5-reasons-why-hes-grant-petersen-and-youre-not/) , Bridgestone USA introduced the Bridgestone MB-0 or MB-Zip. Limited to just one thousand builds, the [Bridgestone MB-0](https://sheldonbrown.com/bridgestone/1990/pages/bridgestone-1990-03.htm) was a lighter, more exclusive version of the MB-1. Hand-built using TIG-welded Ritchey Logic Prestige tubing with mix of Suntour XC-Pro and Mavic Paris Dakar, MB-0 eschewed the trends of the time such as a Shimano Bio-pace chainring and bar-ends.
 
 Needless to say, I was fortunate enough to get one....but that's a story for another time.
 
-In 1994, Bridgestone ended its US operations which opened the door for [Grant Petersen](https://www.bikeradar.com/features/grant-petersen-rivendell-bicycle-works/) to create [Rivendell](https://www.youtube.com/watch?v=5_K2UFRs_qA)...which brings us to my custom built Rivendell All-Rounder.
+In 1994, Bridgestone ended its USA operations which opened the door for [Grant Petersen](https://www.bikeradar.com/features/grant-petersen-rivendell-bicycle-works/) to create [Rivendell](https://www.youtube.com/watch?v=5_K2UFRs_qA)...which brings us to my [Rivendell All-Rounder](20221204_wedel_08_te.pdf).
 
-The frame was custom built with a longer top-tube (to accomodate my long torso) using super-thin Reynolds 753 main tubes with stiffer Reynolds 531 fork blades. They're joined with silver-brazed handcut lugs by the framesmiths at Waterford Precision Cycles. I built this up with a mix of components from by old MB-0 as well as some newer oddities such as the Softride stem with dampener.
+{{< figure src="gallery/220714_rivendell-22.webp" caption="My custom built Rivendell All-Rounder in pumpkin orange." >}}
 
-{{< figure src="gallery/220714_rivendell-22.webp" caption="My custom built Rivendell All Rounder in pumpkin orange." >}}
+The frame was custom built with a longer top-tube (to accomodate my long torso) using Reynolds 753 main tubes with stiffer Reynolds 531 fork blades. They're joined with silver-brazed handcut lugs by the framesmiths at Waterford Precision Cycles. I built this up with a mix of components from by old MB-0 as well as some newer oddities such as the Softride stem.
 
-This past summer I took it out for some proper [mountain biking](https://www.instagram.com/reel/Cf79RLJu5rr/?hl=en) while in Vail Valley⛰️ and it's still as fun as when I first got it back in 1996.
+{{< figure src="gallery/220705_meadowmtn_3.webp" caption="At the top of the Meadow Mountain in Avon, Colorado." >}}
+
+This past summer I took it out for some proper [mountain biking](https://www.instagram.com/reel/Cf79RLJu5rr/?hl=en) while in Vail Valley⛰️. For being over twenty-years old, this bike still elicits memories from a time when mountain biking was just about the simple pleasure of riding.
 
 {{< gallery folder="gallery" title="Custom Built Rivendell All-Rounder" >}}
 
