@@ -26,7 +26,7 @@ In 1994, Bridgestone ended its USA operations which opened the door for [Grant P
 
 The frame was custom built with a longer top-tube (to accomodate my long torso) using Reynolds 753 main tubes with stiffer Reynolds 531 fork blades. They're joined with silver-brazed handcut lugs by the framesmiths at Waterford Precision Cycles. I built this up with a mix of components from by old MB-0 as well as some newer oddities such as the Softride stem.
 
-{{< figure src="gallery/220705_meadowmtn_3.webp" caption="At the top of the Meadow Mountain in Avon, Colorado." >}}
+{{< figure src="gallery/220705_meadowmtn_3.webp" caption="At the top of the Meadow Mountain in Avon, Colorado. Photo: Felix the Cat" >}}
 
 This past summer I took it out for some proper [mountain biking](https://www.instagram.com/reel/Cf79RLJu5rr/?hl=en) while in Vail Valley⛰️. For being over twenty-years old, this bike still elicits memories from a time when mountain biking was just about the simple pleasure of riding.
 
