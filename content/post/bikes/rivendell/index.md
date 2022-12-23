@@ -20,7 +20,7 @@ Under the direction of [Grant Petersen](https://www.bikemag.com/pavedmag/5-reaso
 
 Needless to say, I was fortunate enough to get one....but that's a story for another time.
 
-In 1994, Bridgestone ended its USA operations which opened the door for [Grant Petersen](https://www.bikeradar.com/features/grant-petersen-rivendell-bicycle-works/) to create [Rivendell](https://www.youtube.com/watch?v=5_K2UFRs_qA)...which brings us to my [Rivendell All-Rounder](Rivendell Catalog 1996 Summer.pdf).
+In 1994, Bridgestone ended its USA operations which opened the door for [Grant Petersen](https://www.bikeradar.com/features/grant-petersen-rivendell-bicycle-works/) to create [Rivendell](https://www.youtube.com/watch?v=5_K2UFRs_qA)...which brings us to my Rivendell All-Rounder.
 
 {{< figure src="gallery/220714_rivendell-22.webp" caption="My custom built Rivendell All-Rounder in pumpkin orange." >}}
 
