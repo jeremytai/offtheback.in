@@ -32,4 +32,7 @@ This past summer I took it out for some proper [mountain biking](https://www.ins
 
 {{< gallery folder="gallery" title="Custom Built Rivendell All-Rounder" >}}
 
-Bonus: If you've made it this far then check out the [back catalog 📄](http://notfine.com/rivreader/) of all the Rivendell Readers as well as the Bridgestone Owners Bunch.
+## Rivendell Reader
+Bonus: If you've made it this far then check out the [back catalog 📄](http://notfine.com/rivreader/) of all the Rivendell Readers as well as the Bridgestone Owners Bunch in PDF form and Kindle format below:
+
+1. [Rivendell Reader 00](rivendell-reader/RR00.kpf)
