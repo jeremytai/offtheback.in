@@ -3,7 +3,7 @@ title: "Kiel"
 date: 2023-02-12T11:09:31+01:00
 image: "2023/kiel/gallery/230212_kiel_cross-36.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
-description: "Trial edition of the Kandie Cross in Hamburg's Altes Land"
+description: "The last cyclocross race of the season - Trek City Cross in Kiel"
 categories: ["Cyclocross"]
 tags: ["cyclocross", "trekcyclocrossseries"]
 draft: false
@@ -23,7 +23,7 @@ In spite of lining up in the second row, I was in fourth place going into the ba
 It was during the second lap that I noticed my rear tire losing air, and ultimately, going completely flat in the second lap. Unfortunately, I didn't bring a spare bike or extra wheels so my option were:
 
 1. Quit
-2. Finish with a rear flat ✅
+2. Finish with a rear flat 🫠
 
 As I already was in Kiel, and the course was quite forgiving for riding on a flat, I made the decision to finish all five laps...as I saw more and more people pass me. I ended up finishing 9th of the ten people that lined up.
 
