@@ -18,6 +18,8 @@ Together with our friends [FC St. Pauli Radsport](https://fcstpauli-radsport.de/
 
 [Kathi](https://kandiegang.team/people/kathi-sigmund/) first brought up the idea a couple of months ago as she had contact to Max whose family owns an apple orchard a stone's throw south of the Elbe. So, in mid-November (the 12th to be exact) Kathi, Paul, Tecx, and myself as well as a three other cyclocross enthusiasts from the FC St. Pauli Radsport went to see what was possible...
 
+{{< figure src="gallery/231112_kathisigmund_paulwunderlich_apple.webp" caption="Kathi and Paul enjoying some of the local fruit." >}}
+
 Which brings us to today's first edition of the Kandie Kross. It all came together rather quickly but all those that participated were in good spirits in spite of the 'cross weather that made its presence known.
 
 A huge thank you Max and his family as well as all those that supported us in making this happen 👏
@@ -53,3 +55,4 @@ A huge thank you Max and his family as well as all those that supported us in ma
 | Race Category | Name | Place |
 |---|---|---|
 |Gala| Levke | 🥇 |
+
