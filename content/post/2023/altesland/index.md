@@ -23,3 +23,33 @@ Which brings us to today's first edition of the Kandie Kross. It all came togeth
 A huge thank you Max and his family as well as all those that supported us in making this happen 👏
 
 {{< gallery folder="gallery" title="Kandie Kross Alpha Edition" >}}
+
+| Race Category | Name | Place |
+|---|---|---|
+| Elstar | Lars K  | 🥇 |
+|  | Karsten K | 🥈 |
+| Braeburn | Cord M  | 🥉 |
+| | Silke | |
+
+| Race Category | Name | Place |
+|---|---|---|
+|Jonagold| Jakob L | 🥇 |
+|  | Sebastian W | 🥈 |
+|  | Felix S  | 🥉 |
+| | Titus | |
+| | Fabian L | |
+| | Christian H | |
+| | Bernd A | |
+| | Christian K | |
+| | Sebastina B | |
+| | Katrin H | |
+| | Christian L | |
+
+| Race Category | Name | Place |
+|---|---|---|
+|Braeburn| Paul | 🥇 |
+|  | Willi | 🥈 |
+
+| Race Category | Name | Place |
+|---|---|---|
+|Gala| Levke | 🥇 |
