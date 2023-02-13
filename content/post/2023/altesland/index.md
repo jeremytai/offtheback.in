@@ -16,7 +16,7 @@ resources:
 
 Together with our friends [FC St. Pauli Radsport](https://fcstpauli-radsport.de/) and [Max Örtzen](https://www.instagram.com/maxoertzen/) we held our first cyclocross event just south of the Elbe in the Altes Land 🍎
 
-[Kathi](https://kandiegang.team/people/kathi-sigmund/) first brought up the idea a couple of months ago as she had contact to Max who'd family happens to own an apple orchard a stone's throw south of the Elbe. So, in mid-November (the 12th to be exact) Kathi, Paul, Tecx, and myself as well as a three other cyclocross enthusiasts from the FC St. Pauli Radsport went to see what was possible...
+[Kathi](https://kandiegang.team/people/kathi-sigmund/) first brought up the idea a couple of months ago as she had contact to Max whose family owns an apple orchard a stone's throw south of the Elbe. So, in mid-November (the 12th to be exact) Kathi, Paul, Tecx, and myself as well as a three other cyclocross enthusiasts from the FC St. Pauli Radsport went to see what was possible...
 
 Which brings us to today's first edition of the Kandie Kross. It all came together rather quickly but all those that participated were in good spirits in spite of the 'cross weather that made its presence known.
 
