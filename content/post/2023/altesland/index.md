@@ -29,8 +29,8 @@ A huge thank you Max and his family, FC St. Pauli Radsport as well as all those 
 | Race Category | Name | Place |
 |---|---|---|
 | Elstar | Lars K  | 🥇 |
-|  | Karsten K | 🥈 |
-| Braeburn | Cord M  | 🥉 |
+| | Karsten K | 🥈 |
+| | Cord M  | 🥉 |
 | | Silke | |
 
 | Race Category | Name | Place |
