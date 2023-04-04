@@ -23,8 +23,3 @@ Among the thirty others in my age class, my goal was to finish top ten which I w
 | ----------- | ----------- |
 | 9th of 30 | [Full Results PDF](20221113_oldesloe_07_te.pdf) |
 | Distance **11.57km** | Moving Time **ca. 45.09** |
-
----
-
-<a id="offcamber"></a>
-{{< tweet user="jeremytai" id="1592563252311265282" >}}
