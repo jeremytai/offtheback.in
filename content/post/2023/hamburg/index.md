@@ -22,16 +22,14 @@ This weekend was the Kandie Gang Edition of Orbit360’s [Ride for a Reason](htt
 
 Initially, I was going to do the South Route but then changed my mind as a longish night ride was something I had never done before. I knew the route as I reconned it last Sunday with Stefan but darkness makes it an unknown…at least for me.
 
-## Tankstellenromantik
-So, promptly at 22:00 on April Fool’s Day eighteen hardy adventurers set off from the Kandie Shop…
+So, promptly at 22:00 on April Fool’s Day eighteen hardy adventurers set off from the Kandie Shop.
 
 It was 0°C (32°F) but Hamburg has a way of making it feel a lot colder than it really is. Needless to say, I hadn’t worn my winter shoes or gloves…which would be my undoing.
 
 I chose to abandon in Bad Oldesloe and took the 3:28am train back to Hamburg…
 
-{{< figure src="gallery/230401_ridefar-23.webp" caption="Waiting for the next train back to Hamburg..." >}}
+{{< figure src="gallery/230401_ridefar-23.webp" caption="Waiting for the next train back to Hamburg." >}}
 
-## A Few Hours Later
 Sunday was a different story…cool with a crisp Spring blue sky 🌞
 
 After a few hours of sleep I was back on the saddle and back on the trail heading towards the hills of Harburg for the Southern 100km route.
