@@ -1,0 +1,3 @@
+[submodule "themes/themes/hugo-photoswipe5-gallery"]
+	path = themes/themes/hugo-photoswipe5-gallery
+	url = git@github.com:thkukuk/hugo-photoswipe5-gallery.git
