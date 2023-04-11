@@ -106,4 +106,4 @@ expire_days = 5
   tag = 'tags'
 
 [imaging.exif]
-    includeFields = ".*"
+  includeFields = ".*"
