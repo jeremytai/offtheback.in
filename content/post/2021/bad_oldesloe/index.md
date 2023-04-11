@@ -20,10 +20,9 @@ I ended up 3rd which I’m quite happy about as I’ve only got my a bike last S
 And I didn’t crash 🤞
 
 {{< youtube u5fbTns5Z-I >}}
-{{< gallery folder="gallery" title="" >}}
+{{< gallery folder="gallery" title="Bad Oldesloe" >}}
 
- ¬ 
-
+ ¬
 | #07 Bad Oldesloe| RV Trave |
 | ----------- | ----------- |
 | 3rd 🥉 of 28 | [Full Results PDF](20211121_07_oldesloe_te.pdf) |
