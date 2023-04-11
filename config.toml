@@ -5,8 +5,6 @@ theme = "persian"
 languageName = "En"
 languageCode = "en-us"
 
-
-
 # post pagination
 paginate = "5"
 # disqus short name
