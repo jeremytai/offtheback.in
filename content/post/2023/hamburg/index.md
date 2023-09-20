@@ -13,7 +13,6 @@ resources:
   title: gallery-title-:counter
 ---
 
-
 This weekend was the Kandie Gang Edition of Orbit360’s [Ride for a Reason](https://www.orbit360.cc/ridefar). Initiated by Christine, there were three routes to choose from:
 
 1. [180km Night Ride 🌚](https://www.komoot.com/tour/1066084529)
