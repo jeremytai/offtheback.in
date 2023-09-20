@@ -3,6 +3,7 @@ title: "Burnsville"
 date: 2022-08-25T06:26:51-05:00
 image: "2022/burnsville/gallery/220825_buickhill_mtnbike_race-45.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
+draft: false
 description: "Freewheel Buck Hill Thursday Night Race Series - No. 11."
 categories: ["mtn bike"]
 tags: ["mountain bike", "freewheel", "buck hill"]
@@ -20,7 +21,7 @@ As I don't have a mountain bike in Minnesota, I had the good fortune of borrowin
 
 Thanks [Jason](https://www.strava.com/athletes/4501137) and Jenny for lending me your bike!
 
-{{< gallery folder="gallery" title="Tuesday Night Cyclocross" >}}
+{{< gallery folder="gallery" title="" >}}
 
  ¬
 

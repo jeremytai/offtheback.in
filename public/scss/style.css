@@ -11,39 +11,33 @@ AUTHOR WEBSITE: https://themefisher.com
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap'); */
-/* (Gotham-Book)              weight: normal,   style: normal */
+/* 
 @font-face {
-  font-family: 'Gotham';
-  font-weight: normal;
+  font-family: 'Playfair Display';
   font-style: normal;
-  src: local(""), url("../fonts/Gotham-Book.woff2") format("woff2"), url("../fonts/Gotham-Book.woff") format("woff"); }
-
-/* (Gotham-Bold)              weight: bold      style: normal */
-@font-face {
-  font-family: 'Gotham';
-  font-weight: bold;
-  font-style: normal;
-  src: local(""), url("../fonts/Gotham-Bold.woff2") format("woff2"), url("../fonts/Gotham-Bold.woff") format("woff"); }
+  font-weight: 400;
+  src: local(""), url("../fonts/playfair-display-v25-latin-regular.woff2") format("woff2"), url("../fonts/playfair-display-v25-latin-regular.woff") format("woff");
+  font-display: swap; }
+ */
 
 body {
   line-height: 1.2;
-  font-family: "Gotham", sans-serif;
+  font-family: "Playfair Display", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
   color: #555; }
 
 p, .paragraph {
-  font-weight: normal;
+  font-weight: 400;
   color: #555;
   font-size: 16px;
   line-height: 1.7;
-  font-family: "Gotham", sans-serif; }
+  font-family: "Playfair Display", sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #333;
-  font-family: "Gotham", sans-serif;
-  font-weight: bold;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 500;
   line-height: 1.2; }
 
 h1, .h1 {
@@ -67,7 +61,7 @@ h6, .h6 {
 /* Button style */
 .btn {
   font-size: 14px;
-  font-family: "Gotham", sans-serif;
+  font-family: "Playfair Display", sans-serif;
   text-transform: capitalize;
   padding: 10px 25px;
   border-radius: 0;
@@ -147,9 +141,7 @@ a {
 a,
 a:hover,
 a:focus {
-  text-decoration-color: #fffb00;
-  text-decoration-thickness: .125em;
-  text-underline-offset: 1.5px; }
+  text-decoration: none; }
 
 a,
 button,
@@ -163,10 +155,6 @@ select {
 
 a:hover {
   color: #222; }
-
-a[href$='.pdf'] {
-  background: transparent url(/images/icon_pdf.gif) center left no-repeat;
-  padding-left: 18px; }
 
 .slick-slide {
   outline: 0; }
@@ -221,14 +209,6 @@ a[href$='.pdf'] {
 
 .bg-light {
   background-color: #fbfbfb !important; }
-
-.bg-about {
-  background-image: url("../images/jeremyabbett_cyclocross.jpg") !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 90vh; }
 
 .form-control {
   width: 100%;
@@ -430,8 +410,7 @@ mark {
         .post .post-meta a {
           font-size: 12px; } }
   .post-sm .post-title {
-    font-size: 1.7rem;
-    text-transform: uppercase; }
+    font-size: 1.7rem; }
     @media (max-width: 575px) {
       .post-sm .post-title {
         font-size: 1.2rem; } }

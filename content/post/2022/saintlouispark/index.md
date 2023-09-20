@@ -26,7 +26,7 @@ Needless to say, Minnesota cycling is alive and well.
 
 {{< figure src="/2022/saintlouispark/220823_aquila_cx-4.webp" caption="[Kadence Novak](https://www.instagram.com/dekadence/) of [Fulton Cycling](https://www.fultonbeer.com/about/fulton-racing) in-between the tape with #smilesformiles." >}}
 
-{{< gallery folder="gallery" title="Tuesday Night CX" >}}
+{{< gallery folder="gallery" title="" >}}
 
  ¬
 

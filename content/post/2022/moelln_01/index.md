@@ -1,5 +1,5 @@
 ---
-title: "Mölln - Day One"
+title: "Mölln - Stevens Cyclocross Cup #1"
 date: 2022-09-24T08:04:01+02:00
 image: "2022/moelln_01/220924_stevenscup_moelln_day01-2.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
@@ -20,13 +20,11 @@ Today, Kandie Gang was in full force having four women riding licensed, three in
 
 Needless to say, we’re looking forward to the next eight races with next weekend being in Norderstedt and Hannover. 🙌
 
-{{< gallery folder="gallery" title="Mölln - Stevens Cyclocross Cup #1" >}}
+{{< gallery folder="gallery" title="" >}}
+
+*Non-commerical usage of the photos in the gallery above are provided pending there is my copyright and a link to [Off the Back](https://www.offtheback.in). [Contact](https://www.offtheback.in/contact) me to remove the watermark in the middle.
 
 | #01 Mölln | Pirate Bikes |
 | ----------- | ----------- |
 | 8th of 24 | [Full Results PDF](20220924_01_moelln_te.pdf) |
 | Distance **10.36km** | Moving Time **34.36** |
-
----
-
-{{< youtube A_Bq_Ofyl4A >}}

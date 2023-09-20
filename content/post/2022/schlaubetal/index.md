@@ -1,5 +1,5 @@
 ---
-title: "Gravity Bike Festival"
+title: "Schlaubetal"
 date: 2022-06-06T12:04:44+02:00
 image: "2022/schlaubetal/gallery/220607_orbit360_gravitybikefestival2022-29.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
@@ -63,10 +63,9 @@ The evening activity of footdown[^1] was held in an arena adjacent to the camp g
 
 Thank you Christina for the tip, Raphael for the patience and the rest of the northern Germany crew (Cindy, Malte, Philip, Elena, and Manuel) for being yourselves.
 
-## <a id="gallery"></a>
+---
+
+## <a id="gallery"></a> Gallery
 {{< gallery folder="gallery" title="Orbit360 Gravity Bike Festival 2022" >}}
-
-Gravity Festival 2022 Aftermovie
-{{< youtube RmyTGAbwRYg >}}
-
+---
 [^1]: Footdown is a group bicycle game where the objective is to avoid put your foot on the ground. Participants cycle around until there is only one person who has not put his or her foot down on the floor, whether it be the full foot, or just a toe.

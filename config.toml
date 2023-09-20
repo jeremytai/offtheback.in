@@ -5,6 +5,8 @@ theme = "persian"
 languageName = "En"
 languageCode = "en-us"
 
+
+
 # post pagination
 paginate = "5"
 # disqus short name
@@ -44,10 +46,10 @@ link = "plugins/search/search.js"
 #url = "/"
 #weight = 1
 
-[[menu.main]]
-name = "Bikes"
-url = "tags/bikes/"
-weight = 2
+#[[menu.main]]
+#name = "Bikes"
+#url = "tags/bikes/"
+#weight = 2
 
 [[menu.main]]
 name = "About"
@@ -104,6 +106,3 @@ expire_days = 5
 [taxonomies]
   category = 'categories'
   tag = 'tags'
-
-[imaging.exif]
-  includeFields = ".*"

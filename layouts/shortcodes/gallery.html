@@ -1,20 +1,20 @@
-<hr>
 {{ with .Get "title" }}
-	<h4>{{ . }}</h4>
+  <h4>{{ . }}</h4>
 {{ end }}
-	<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
-	{{- range (.Page.Resources.Match (printf "%s*" (.Get "folder"))) }}
-	{{ $thumbnail := .Resize "320x q40" }}
-		<figure itemscope itemtype="http://schema.org/ImageObject" class="image gallery-item">
-		<a href="{{ .Permalink }}" data-title="{{ with .Exif }}{{ .Tags.ImageDescription }}{{ end }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
-			<img src="{{ $thumbnail.Permalink }}" itemprop="thumbnail" alt="galleryImage" class="galleryImage" />
-		</a>
-		<figcaption itemprop="caption description">
-			<span itemprop="copyrightHolder"></span>
-		</figcaption>
-		</figure> 
-	{{ end }}
-	</div>
-<hr>
- <p><em>All photographs appearing in the website are the exclusive property of Jeremy Tai Abbett (unless stated otherwise) and are protected under international copyright laws. It is not allowed to copy, print, reproduce, download, manipulate, project, use or store images in anyway without the permision of the artist or agent. For all general questions and inquiries about the work use the <a href="https://www.offtheback.in/contact">contact form</a>.</em></p>
-<hr>
+  <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  {{- range (.Page.Resources.Match (printf "%s*" (.Get "folder"))) }}
+  {{ $thumbnail := .Resize "320x" }}
+    <figure itemscope itemtype="http://schema.org/ImageObject" class="image gallery-item">
+    <a href="{{ .Permalink }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
+      
+      <img
+        src="{{ $thumbnail.Permalink }}" itemprop="thumbnail" alt="galleryImage" class="galleryImage"
+      />
+
+    </a>
+    <figcaption itemprop="caption description">
+      <span itemprop="copyrightHolder"></span>
+    </figcaption>
+    </figure> 
+  {{ end }}
+  </div>
