@@ -25,5 +25,5 @@ Thank you for the support as I pushed the pedals to a thirteenth place among the
 
 | [Stevens Cyclocross Cup](https://www.stevenscup.de/) | [MC Pirate](https://www.pirate-hamburg.de/) |
 | ----------- | ----------- |
-| 13th of 22 | [Full Results PDF](20231021_04_moelln_erg_telscd.pdf) |
+| 13th of 22 | [Full Results PDF](20231021_04_moelln_erg_te.pdf) |
 | Distance **10.59km** | Moving Time **ca. 40:05** |
