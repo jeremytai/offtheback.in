@@ -1,5 +1,5 @@
 ---
-title: "Mölln"
+title: "Mölln 01"
 date: 2023-10-21T10:40:31+01:00
 image: "2023/moelln_01/211021_stevenscup_moelln-26.webp"
 #author: "Jeremy Tai Abbett" # use capitalize
