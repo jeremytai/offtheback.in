@@ -15,7 +15,7 @@ resources:
 
 Waking up to a blue sky and sun looked promising for the second day in Mölln 🌞
 
-Cycle cross conditions are typically wet and cold so when days like last Sunday happen, it makes one appreciate them even more so. Sunday for cyclocross, at least you’re in Germany, typically means more people line up at the start. This is because most commercial stores are closed on Sunday so if you haven’t taken care of everything you need to take care of on Saturday then you have to wait until Monday.
+Cycle cross conditions are typically wet and cold so when days like last Sunday happen, it makes one appreciate them even more so. Sunday for cyclocross, at least if you’re in Germany, typically means more people line-up at the start than on a Saturday. This is because most commercial stores are closed on Sunday...if you haven’t taken care of everything you need to take care of on Saturday then you have to wait until Monday.
 
 That sun was no exception; for the start of the Masters 3 race, there were thirty men lined up. Fortunately for me, I had a second row start and was able to take stay in the top eight before the first pinch point (a sweeping left that led under a bridge).
 
