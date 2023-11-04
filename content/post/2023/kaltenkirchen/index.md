@@ -15,12 +15,11 @@ resources:
 
 Last Sunday was spent in Kaltenkirchen’s Freizeit Park spinning up greasy off-camber inclines and snaking around sections of single-track interspersed with wild mushrooms.
 
-The course itself was challenging enough not to mention all thirty-four hitters that showed up in my race. After the start and on the first climb I felt the [Masters World Champion](https://www.jens-schwedler.de/) brush by my outside right thigh and pass me.
-It was only a matter of short time, as he was on the start grid right behind me.
+The course itself was challenging enough not to mention all thirty-four hitters that showed up in my race. After the start, and on the first climb, I felt the [Masters World Champion](https://www.jens-schwedler.de/) brush by my outside right thigh and pass me. It was only a matter of short time as he was on the start grid right behind me.
 
-It was only a matter of a lap and a half in which I settled into a small group of some familiar faces from other the previous races. But this wasn't to be the full story as the punch climbs and somewhat technical single-track had me move ahead of people that are typcally ahead of me.
+A lap and a half later I settled into a small group of some familiar faces from previous races. But this wasn't to be the full story as the punchy climbs, and somewhat technical single-track, had me move ahead of people that are typcally in front of me.
 
-While a fourteeth place finish might seem like I've dropped back a place or two, it doesn't tell the whole story; We've never had a field this deep that included all the fast ones. In the end, things are moving forward as we tick down to the Cyclocross Masters World Championships on December 1 -3.
+While a fourteeth place finish might seem like I've dropped back a place or two, it doesn't tell the whole story; we've never had a field this deep that included all the hitters. In the end, things are moving forward as we tick down to the Cyclocross Masters World Championships on December 1 -3.
 
 {{< gallery folder="gallery" title="Stevens Cyclocross Cup 2023, No. 6 - 16. Cross im Park 2023" >}}
 
