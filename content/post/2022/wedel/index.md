@@ -5,7 +5,7 @@ image: "2022/wedel/220123_octf_rg_wedel-13.webp"
 description: "CTF RG Wedel - riding a allroad/gravel course in the suburbs of Hamburg."
 #author: "Jeremy Tai Abbett" # use capitalize
 categories: ["Allroad"]
-tags: ["gravel", "ctf", "stpauli"]
+tags: ["gravel", "ctf", "wedel"]
 draft: false
 resources: 
 - src: "gallery/*.webp"
