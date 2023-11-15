@@ -51,6 +51,11 @@ link = "plugins/search/search.js"
 #url = "tags/bikes/"
 #weight = 2
 
+#[[menu.main]]
+#name = "Shop"
+#url = "https://offtheback.zenfoliosite.com/"
+#weight = 2
+
 [[menu.main]]
 name = "About"
 url = "about"
