@@ -21,7 +21,7 @@ This year Athledtico Büdelsdorf changed the *parcours* to make it a bit longer;
 
 {{< figure src="/2023/neuduvenstedt/gallery/231112_stevenscup_neuduvenstedt-14.webp" caption="[ 🔗 View the full Neu Duvenstedt Photo Gallery photo gallery](https://offtheback.zenfoliosite.com/neu-duvenstedt)">}}
 
-My race, Masters 3 Men, had the local hitters with the exception of those racing the Budesliga Cross events that took place on Saturday and Sunday. Needless to say, it was still quite a stacked field.
+My race, Masters 3 Men, had the local hitters with the exception of those racing the Bundesliga Cross events that took place on Saturday and Sunday. Needless to say, it was still quite a stacked field.
 
 I would end up crossing the line in 12th just ahead of another rim brake rider, Robert from Pirate Bikes. He had been two riders behind me on the last lap, and like a previous race, was using twenty year cyclocross veteran Lars Erdmann as a wheel to move up.
 
