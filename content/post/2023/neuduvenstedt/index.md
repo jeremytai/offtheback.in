@@ -19,7 +19,7 @@ The race around the Kolonistenhof has nearly everything that is in a cyclocross 
 
 This year Athledtico Büdelsdorf changed the *parcours* to make it a bit longer; they extended the front section after the hill climb start. This was followed by a series of those grassy off-camber hot dog turns that had everyone check their speed before heading towards the start and off to the back woodsy back section. The only thing that was missing that are predominantly experienced in cyclocross races was was mud.
 
-{{< figure src="/2023/neuduvenstedt/gallery/231112_stevenscup_neuduvenstedt-14.webp" caption="[ 🔗 View the full Neu Duvenstedt Photo Gallery photo gallery](https://offtheback.zenfoliosite.com/neu-duvenstedt)">}}
+{{< figure src="/2023/neuduvenstedt/gallery/231112_stevenscup_neuduvenstedt-14.webp" caption="[ 🔗 View the full Neu Duvenstedt Photo Gallery photo gallery](https://iwas.offtheback.in/neu-duvenstedt)">}}
 
 My race, Masters 3 Men, had the local hitters with the exception of those racing the Bundesliga Cross events that took place on Saturday and Sunday. Needless to say, it was still quite a stacked field.
 
@@ -34,10 +34,10 @@ Needless to say, I wasn't going to let him go without a fight so I put a move in
 Taking this as a learning opportunity I did watch a few races. And yes, people do pass on the inside corner in [cyclocross races 📺](https://youtu.be/iDSBHGQD-58?feature=shared&t=70).
 
 ***
-### [🔗 Neu Duvenstedt Photo Gallery](https://offtheback.zenfoliosite.com/neu-duvenstedt)
+### [🔗 Neu Duvenstedt Photo Gallery](https://iwas.offtheback.in/neu-duvenstedt)
 In other news...as you know by now I enjoy taking photos of the other races when I'm not racing. As I have been approached by a number of people inquiring about the photos and if they can purchase them I have created a shop.
 
-Below are a handful of photos from my team the Kandie Gang but to see the full gallery follow this link **[Neu Duvenstedt Photo Gallery](https://offtheback.zenfoliosite.com/neu-duvenstedt)**
+Below are a handful of photos from my team the Kandie Gang but to see the full gallery follow this link **[Neu Duvenstedt Photo Gallery](https://iwas.offtheback.in/neu-duvenstedt)**
 ***
 
 {{< gallery folder="gallery" title="Stevens Cyclocross Cup 2023 - Kandie Gang at the Cross am Kolonistenhof" >}}
