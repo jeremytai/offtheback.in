@@ -18,7 +18,7 @@ Last Saturday, while lining up number fifty-seventh out of over a hundred other 
 tbc
 
 ***
-View the full **[🖼️ UCI 2023 Masters Cyclocross World Champtionships](https://iwas.offtheback.in/home/2023-masters-cyclocross-world-championships)** gallery
+[🔗 View the full UCI 2023 Masters Cyclocross World Champtionships gallery](https://iwas.offtheback.in/home/2023-masters-cyclocross-world-championships)
 ***
 
 {{< gallery folder="gallery" title="" >}}
