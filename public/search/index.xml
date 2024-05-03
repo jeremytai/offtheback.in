@@ -4,7 +4,7 @@
     <title>Search Results on Off The Back</title>
     <link>http://localhost:1313/search/</link>
     <description>Recent content in Search Results on Off The Back</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>

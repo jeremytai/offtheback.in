@@ -4,7 +4,7 @@
     <title>Reach out and say, Hi! on Off The Back</title>
     <link>http://localhost:1313/contact/</link>
     <description>Recent content in Reach out and say, Hi! on Off The Back</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
